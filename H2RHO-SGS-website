@@ -1,7 +1,0 @@
-<script>start("/Users/yuekun/H2RHO-SGS/H2RHO-SGS-website/");</script>
-<script>onHasParentDirectory();</script>
-<script>addRow("static","static",1,192,"192 B",1749735109,"12/06/2025, 14:31:49");</script>
-<script>addRow("videos","videos",1,928,"928 B",1749726544,"12/06/2025, 12:09:04");</script>
-<script>addRow(".DS_Store",".DS_Store",0,6148,"6.0 kB",1749735538,"12/06/2025, 14:38:58");</script>
-<script>addRow("index.html","index.html",0,17741,"17.3 kB",1749662386,"11/06/2025, 18:19:46");</script>
-<script>addRow("README.md","README.md",0,11,"11 B",1749647496,"11/06/2025, 14:11:36");</script>

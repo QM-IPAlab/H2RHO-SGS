@@ -1,0 +1,403 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <!-- Meta tags for social media banners, these should be filled in appropriatly as they are your "business card" -->
+  <!-- Replace the content tag with appropriate information -->
+  <meta name="description" content="DESCRIPTION META TAG">
+  <meta property="og:title" content="SOCIAL MEDIA TITLE TAG" />
+  <meta property="og:description" content="SOCIAL MEDIA DESCRIPTION TAG TAG" />
+  <meta property="og:url" content="URL OF THE WEBSITE" />
+  <!-- Path to banner image, should be in the path listed below. Optimal dimenssions are 1200X630-->
+  <meta property="og:image" content="static/image/your_banner_image.png" />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
+
+
+  <meta name="twitter:title" content="TWITTER BANNER TITLE META TAG">
+  <meta name="twitter:description" content="TWITTER BANNER DESCRIPTION META TAG">
+  <!-- Path to banner image, should be in the path listed below. Optimal dimenssions are 1200X600-->
+  <meta name="twitter:image" content="static/images/your_twitter_banner_image.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <!-- Keywords for your paper to be indexed by-->
+  <meta name="keywords" content="human-robot interaction, handover, hand-object reconstruction">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+  <title>Learning human-to-robot handovers through 3D scene reconstruction</title>
+  <link rel="icon" type="image/x-icon" href="static/images/favicon.ico">
+  <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro" rel="stylesheet">
+
+  <link rel="stylesheet" href="static/css/bulma.min.css">
+  <link rel="stylesheet" href="static/css/bulma-carousel.min.css">
+  <link rel="stylesheet" href="static/css/bulma-slider.min.css">
+  <link rel="stylesheet" href="static/css/fontawesome.all.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+  <link rel="stylesheet" href="static/css/index.css">
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
+  <script defer src="static/js/fontawesome.all.min.js"></script>
+  <script src="static/js/bulma-carousel.min.js"></script>
+  <script src="static/js/bulma-slider.min.js"></script>
+  <script src="static/js/index.js"></script>
+</head>
+
+<body>
+
+
+  <section class="hero">
+    <div class="hero-body">
+      <div class="container is-max-desktop">
+        <div class="columns is-centered">
+          <div class="column has-text-centered">
+            <h1 class="title is-1 publication-title">Learning human-to-robot handovers through 3D scene reconstruction</h1>
+            <div class="is-size-5 publication-authors">
+              <!-- Paper authors -->
+              <span class="author-block">
+                Yuekun Wu,
+              <span class="author-block">
+                Yik Lung Pang,
+              <span class="author-block">
+                <a href="http://www.eecs.qmul.ac.uk/~andrea/" target="_blank">Andrea Cavallaro</a>,
+              </span>
+              <span class="author-block">
+                <a href="http://eecs.qmul.ac.uk/~coh/" target="_blank">Changjae Oh</a>,
+              </span>       
+            </div>
+
+            <div class="is-size-5 publication-authors">
+              <span class="author-block">Queen Mary University of London, UK
+            </div>
+
+            <div class="column has-text-centered">
+              <div class="publication-links">
+
+                <!-- Arxiv PDF link -->
+                <span class="link-block">
+                  <a href="" target="_blank" class="external-link button is-normal is-rounded is-dark">
+                    <span class="icon">
+                      <i class="fas fa-file-pdf"></i>
+                    </span>
+                    <span>Paper
+                    </span>
+                  </a>
+                </span>
+
+                <!-- Supplementary PDF link -->
+                <!-- <span class="link-block">
+                      <a href="static/pdfs/supplementary_material.pdf" target="_blank"
+                      class="external-link button is-normal is-rounded is-dark">
+                      <span class="icon">
+                        <i class="fas fa-file-pdf"></i>
+                      </span>
+                      <span>Supplementary</span>
+                    </a>
+                  </span> -->
+
+                <!-- Github link -->
+                <span class="link-block">
+                  <a href="https://github.qmul.ac.uk/eez095/handover_3d_2025" target="_blank"
+                    class="external-link button is-normal is-rounded is-dark">
+                    <span class="icon">
+                      <i class="fab fa-github"></i>
+                    </span>
+                    <span>Code</span>
+                  </a>
+                </span>
+
+                <!-- ArXiv abstract Link -->
+                <!-- <span class="link-block">
+                  <a href="https://arxiv.org/abs/<ARXIV PAPER ID>" target="_blank"
+                  class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                    <i class="ai ai-arxiv"></i>
+                  </span>
+                  <span>arXiv</span>
+                </a>
+              </span> -->
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+  <!-- Teaser video-->
+  <section class="hero teaser">
+    <div class="container is-max-desktop">
+      <div class="hero-body">
+        <video poster="" id="tree" autoplay controls muted loop height="100%" width="100%">
+          <source src="videos/html-video.mp4" type="video/mp4">
+        </video>
+
+        <h2 class="subtitle has-text-centered">
+          We propose the first method for learning supervised-based robot handovers solely from RGB images without the need of real-robot training or collecting real-robot data.
+        </h2>
+      </div>
+    </div>
+  </section>
+  <!-- End teaser video -->
+
+  <!-- Paper abstract -->
+  <section class="section hero is-light">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered has-text-centered">
+        <div class="column is-four-fifths">
+          <h2 class="title is-3">Abstract</h2>
+          <div class="content has-text-justified">
+            <p>
+              Learning robot manipulation policies from raw, real-world image data requires 
+              a large number of robot-action trials in the physical environment. Although 
+              training using simulations offers a cost-effective alternative, the visual 
+              domain gap between simulation and robot workspace remains a major limitation. 
+              Gaussian Splatting visual reconstruction methods have recently provided new 
+              directions for robot manipulation by generating realistic environments. 
+              In this paper, we propose the first method for learning supervised-based 
+              robot handovers solely from RGB images without the need of real-robot training 
+              or collecting real-robot data. The proposed policy learner, Human-to-Robot 
+              Handover using Sparse-View Gaussian Splat- ting (H2RHO-SGS), leverages 
+              sparse-view Gaussian Splatting reconstruction of human-to-robot handover 
+              scenes to generate robot demonstrations containing image-action pairs captured 
+              with a camera mounted on the robot gripper. As a result, the simulated camera 
+              pose changes in the reconstructed scene can be directly translated into gripper 
+              pose changes. We train a robot policy on demonstrations collected with 16 
+              household objects and directly deploy this policy in the real environ- ment. 
+              Experiments in both Gaussian Splatting reconstructed scene and real-world 
+              human-to-robot handover experiments demonstrate that H2RHO-SGS serves as a 
+              new and effective representation for the human-to-robot handover task.
+            </p>
+          </div>
+          <div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- End paper abstract -->
+
+  <section class="section is-small">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered has-text-centered">
+        <div class="column is-full">
+          <div class="content">
+            <h2 class="title is-3">Pipeline</h2>
+            <div class="level-set has-text-justified">
+              <p>
+                Overview of our method. (a) Given sparse-view RGB-D handover images, 
+                we reconstruct a 3D scene using Gaussian Splatting (GS) and then estimate 
+                grasp poses from the object and hand point clouds extracted from the GS scene. 
+                (b) We then use the GS scene and grasp pose to generate the gripper’s trajectory 
+                toward the pre-grasp pose and the hand-eye image at each sampled pose. 
+                (c) Each trajectory becomes a handover demonstration dataset that includes 
+                hand-eye images, object and hand masks, transformations of the gripper pose, 
+                and pre-grasp pose labels. (d) The dataset is used to train a handover policy. 
+                For inference, only the hand-eye RGB image and masks are required.
+              </p>
+            </div>
+          </div>
+          <div class="columns is-centered">
+            <img src="static/images/pipeline.png" alt="Robot setup" width="100%" class="center-image" />
+          </div>
+        </div>
+      </div>
+  </section>
+
+  <section class="hero section is-small is-light">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered has-text-centered">
+        <div class="column is-full">
+          <div class="content">
+            <h2 class="title is-3">Robot Setup</h2>
+            <div class="level-set has-text-justified">
+              <p>
+                We use a UR5 robotic arm equipped with a Robotiq 2F-85 two-finger gripper and an Intel RealSense D435i camera mounted for hand-eye coordination. A human subject holds an object for the robot to grasp. In the bottom-right, six test objects—four seen during training and two unseen—are shown for evaluation in real-world handover experiments.
+              </p>
+            </div>
+          </div>
+          <div class="columns is-centered">
+            <img src="static/images/robot_setup.png" alt="Reconstruction pipeline" width="50%" class="center-image" />
+          </div>
+        </div>
+      </div>
+  </section>
+
+
+  <section class="hero is-small">
+    <div class="hero-body">
+      <div class="container has-text-centered">
+        <h2 class="title is-3">Real robot experiments</h2>
+
+        <div class="video-container">
+          <div class="video-item">
+            <video class="comp_video" poster="" id="tree" autoplay controls muted loop>
+              <source src="videos/html-video3.mp4" type="video/mp4">
+            </video>
+          </div>
+          <div class="video-item">
+            <video class="comp_video" poster="" id="tree" autoplay controls muted loop>
+              <source src="videos/html-video4.mp4" type="video/mp4">
+            </video>
+          </div>
+          <div class="video-item">
+            <video class="comp_video" poster="" id="tree" autoplay controls muted loop>
+              <source src="videos/html-video5.mp4" type="video/mp4">
+            </video>
+          </div>
+          <div class="video-item">
+            <video class="comp_video" poster="" id="tree" autoplay controls muted loop>
+              <source src="videos/html-video6.mp4" type="video/mp4">
+            </video>
+          </div>
+        </div>
+        <div class="level-set has-text-justified">
+          <div class="container has-text-centered subtitle">
+          </div>
+        </div>
+        <div class="video-container">
+          <div class="video-item">
+            <video class="comp_video" poster="" id="tree" autoplay controls muted loop>
+              <source src="videos/html-video7.mp4" type="video/mp4">
+            </video>
+          </div>
+          <div class="video-item">
+            <video class="comp_video" poster="" id="tree" autoplay controls muted loop>
+              <source src="videos/html-video8.mp4" type="video/mp4">
+            </video>
+          </div>
+          <div class="video-item">
+            <video class="comp_video" poster="" id="tree" autoplay controls muted loop>
+              <source src="videos/html-video9.mp4" type="video/mp4">
+            </video>
+          </div>
+          <div class="video-item">
+            <video class="comp_video" poster="" id="tree" autoplay controls muted loop>
+              <source src="videos/html-video10.mp4" type="video/mp4">
+            </video>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+<!-- 
+  <section class="hero is-small is-light">
+    <div class="hero-body">
+      <div class="container has-text-centered">
+        <h2 class="title is-3">Simulation experiments</h2>
+        <div class="level-set has-text-justified">
+          <div class="container has-text-centered subtitle">
+            Seen colors and objects
+          </div>
+        </div>
+        <div class="video-container">
+          <div class="video-item">
+            <video class="comp_video" poster="" id="tree" autoplay controls muted loop>
+              <source src="static/videos/sim-seen-01.mp4" type="video/mp4">
+            </video>
+          </div>
+          <div class="video-item">
+            <video class="comp_video" poster="" id="tree" autoplay controls muted loop>
+              <source src="static/videos/sim-seen-02.mp4" type="video/mp4">
+            </video>
+          </div>
+          <div class="video-item">
+            <video class="comp_video" poster="" id="tree" autoplay controls muted loop>
+              <source src="static/videos/sim-seen-03.mp4" type="video/mp4">
+            </video>
+          </div>
+          <div class="video-item">
+            <video class="comp_video" poster="" id="tree" autoplay controls muted loop>
+              <source src="static/videos/sim-seen-04.mp4" type="video/mp4">
+            </video>
+          </div>
+        </div>
+        <div class="level-set has-text-justified">
+          <div class="container has-text-centered subtitle">
+            <br> 
+            Unseen colors and objects
+          </div>
+        </div>
+        <div class="video-container">
+          <div class="video-item">
+            <video class="comp_video" poster="" id="tree" autoplay controls muted loop>
+              <source src="static/videos/sim-unseen-01.mp4" type="video/mp4">
+            </video>
+          </div>
+          <div class="video-item">
+            <video class="comp_video" poster="" id="tree" autoplay controls muted loop>
+              <source src="static/videos/sim-unseen-02.mp4" type="video/mp4">
+            </video>
+          </div>
+          <div class="video-item">
+            <video class="comp_video" poster="" id="tree" autoplay controls muted loop>
+              <source src="static/videos/sim-unseen-03.mp4" type="video/mp4">
+            </video>
+          </div>
+          <div class="video-item">
+            <video class="comp_video" poster="" id="tree" autoplay controls muted loop>
+              <source src="static/videos/sim-unseen-04.mp4" type="video/mp4">
+            </video>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+  <section class="hero section is-small ">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered has-text-centered">
+        <div class="column is-full">
+          <div class="content">
+            <h2 class="title is-3">Affordance Prediction</h2>
+            <div class="level-set has-text-justified">
+              <p>
+                Affordances predictions for both pick and place. DiffPort is able to generate affordance predictions and
+                localize objects without using any explicit object representations (e.g., object detections and
+                segmentation)
+              </p>
+            </div>
+          </div>
+          <div class="columns is-centered">
+            <img src="static/images/affordance.jpg" alt="Reconstruction pipeline" width="100%" class="center-image" />
+          </div>
+        </div>
+      </div>
+  </section> -->
+
+
+  <footer class="footer">
+    <div class="container">
+      <div class="columns is-centered">
+        <div class="column is-8">
+          <div class="content">
+
+            <p>
+              This page was built using the <a href="https://github.com/eliahuhorwitz/Academic-project-page-template"
+                target="_blank">Academic Project Page Template</a> which was adopted from the <a
+                href="https://nerfies.github.io" target="_blank">Nerfies</a> project page.
+              You are free to borrow the source code of this website, we just ask that you link back to this page in the
+              footer. <br> This website is licensed under a <a rel="license"
+                href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank">Creative
+                Commons Attribution-ShareAlike 4.0 International License</a>.
+            </p>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Statcounter tracking code -->
+
+  <!-- You can add a tracker to track page visits by creating an account at statcounter.com -->
+
+  <!-- End of Statcounter Code -->
+
+</body>
+
+</html>
