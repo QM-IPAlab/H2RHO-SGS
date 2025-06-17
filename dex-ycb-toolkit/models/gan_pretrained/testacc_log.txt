@@ -1,0 +1,3300 @@
+================ Testing Acc (Mon May 25 06:32:54 2020) ================
+epoch: 10, TEST REC LOSS: [0.52971]
+
+================ Testing Acc (Mon May 25 06:38:39 2020) ================
+epoch: 20, TEST REC LOSS: [0.21066]
+
+================ Testing Acc (Mon May 25 06:44:33 2020) ================
+epoch: 30, TEST REC LOSS: [0.062699]
+
+================ Testing Acc (Mon May 25 06:50:15 2020) ================
+epoch: 40, TEST REC LOSS: [0.12104]
+
+================ Testing Acc (Mon May 25 06:56:12 2020) ================
+epoch: 50, TEST REC LOSS: [0.090176]
+
+================ Testing Acc (Mon May 25 07:01:43 2020) ================
+epoch: 60, TEST REC LOSS: [0.081267]
+
+================ Testing Acc (Mon May 25 07:07:23 2020) ================
+epoch: 70, TEST REC LOSS: [0.078744]
+
+================ Testing Acc (Mon May 25 07:13:13 2020) ================
+epoch: 80, TEST REC LOSS: [0.078821]
+
+================ Testing Acc (Mon May 25 07:18:38 2020) ================
+epoch: 90, TEST REC LOSS: [0.080619]
+
+================ Testing Acc (Mon May 25 07:24:23 2020) ================
+epoch: 100, TEST REC LOSS: [0.078889]
+
+================ Testing Acc (Mon May 25 07:29:54 2020) ================
+epoch: 110, TEST REC LOSS: [0.08539]
+
+================ Testing Acc (Mon May 25 07:35:31 2020) ================
+epoch: 120, TEST REC LOSS: [0.078811]
+
+================ Testing Acc (Mon May 25 07:41:23 2020) ================
+epoch: 130, TEST REC LOSS: [0.080728]
+
+================ Testing Acc (Mon May 25 07:46:57 2020) ================
+epoch: 140, TEST REC LOSS: [0.075989]
+
+================ Testing Acc (Mon May 25 07:52:40 2020) ================
+epoch: 150, TEST REC LOSS: [0.071383]
+
+================ Testing Acc (Mon May 25 07:58:18 2020) ================
+epoch: 160, TEST REC LOSS: [0.082671]
+
+================ Testing Acc (Mon May 25 08:03:49 2020) ================
+epoch: 170, TEST REC LOSS: [0.068803]
+
+================ Testing Acc (Mon May 25 08:09:30 2020) ================
+epoch: 180, TEST REC LOSS: [0.07271]
+
+================ Testing Acc (Mon May 25 08:15:17 2020) ================
+epoch: 190, TEST REC LOSS: [0.071522]
+
+================ Testing Acc (Mon May 25 08:21:21 2020) ================
+epoch: 200, TEST REC LOSS: [0.071261]
+
+================ Testing Acc (Mon May 25 08:27:27 2020) ================
+epoch: 210, TEST REC LOSS: [0.069976]
+
+================ Testing Acc (Mon May 25 08:33:29 2020) ================
+epoch: 220, TEST REC LOSS: [0.069004]
+
+================ Testing Acc (Mon May 25 08:39:34 2020) ================
+epoch: 230, TEST REC LOSS: [0.075852]
+
+================ Testing Acc (Mon May 25 08:45:27 2020) ================
+epoch: 240, TEST REC LOSS: [0.080136]
+
+================ Testing Acc (Mon May 25 08:51:22 2020) ================
+epoch: 250, TEST REC LOSS: [0.070384]
+
+================ Testing Acc (Mon May 25 08:57:35 2020) ================
+epoch: 260, TEST REC LOSS: [0.072534]
+
+================ Testing Acc (Mon May 25 09:03:25 2020) ================
+epoch: 270, TEST REC LOSS: [0.070523]
+
+================ Testing Acc (Mon May 25 09:09:19 2020) ================
+epoch: 280, TEST REC LOSS: [0.070284]
+
+================ Testing Acc (Mon May 25 09:15:46 2020) ================
+epoch: 290, TEST REC LOSS: [0.07212]
+
+================ Testing Acc (Mon May 25 09:21:33 2020) ================
+epoch: 300, TEST REC LOSS: [0.072139]
+
+================ Testing Acc (Mon May 25 09:27:51 2020) ================
+epoch: 310, TEST REC LOSS: [0.067097]
+
+================ Testing Acc (Mon May 25 09:33:42 2020) ================
+epoch: 320, TEST REC LOSS: [0.069795]
+
+================ Testing Acc (Mon May 25 09:39:44 2020) ================
+epoch: 330, TEST REC LOSS: [0.068758]
+
+================ Testing Acc (Mon May 25 09:45:42 2020) ================
+epoch: 340, TEST REC LOSS: [0.069228]
+
+================ Testing Acc (Mon May 25 09:51:54 2020) ================
+epoch: 350, TEST REC LOSS: [0.069753]
+
+================ Testing Acc (Mon May 25 09:58:03 2020) ================
+epoch: 360, TEST REC LOSS: [0.067763]
+
+================ Testing Acc (Mon May 25 10:04:15 2020) ================
+epoch: 370, TEST REC LOSS: [0.069032]
+
+================ Testing Acc (Mon May 25 10:10:19 2020) ================
+epoch: 380, TEST REC LOSS: [0.06984]
+
+================ Testing Acc (Mon May 25 10:16:24 2020) ================
+epoch: 390, TEST REC LOSS: [0.070173]
+
+================ Testing Acc (Mon May 25 10:22:29 2020) ================
+epoch: 400, TEST REC LOSS: [0.070113]
+
+================ Testing Acc (Mon May 25 10:28:39 2020) ================
+epoch: 410, TEST REC LOSS: [0.068647]
+
+================ Testing Acc (Mon May 25 10:34:28 2020) ================
+epoch: 420, TEST REC LOSS: [0.068591]
+
+================ Testing Acc (Mon May 25 10:40:40 2020) ================
+epoch: 430, TEST REC LOSS: [0.071179]
+
+================ Testing Acc (Mon May 25 10:46:39 2020) ================
+epoch: 440, TEST REC LOSS: [0.068925]
+
+================ Testing Acc (Mon May 25 10:52:38 2020) ================
+epoch: 450, TEST REC LOSS: [0.069476]
+
+================ Testing Acc (Mon May 25 10:58:45 2020) ================
+epoch: 460, TEST REC LOSS: [0.071281]
+
+================ Testing Acc (Mon May 25 11:04:51 2020) ================
+epoch: 470, TEST REC LOSS: [0.071543]
+
+================ Testing Acc (Mon May 25 11:10:51 2020) ================
+epoch: 480, TEST REC LOSS: [0.069646]
+
+================ Testing Acc (Mon May 25 11:17:11 2020) ================
+epoch: 490, TEST REC LOSS: [0.067256]
+
+================ Testing Acc (Mon May 25 11:23:09 2020) ================
+epoch: 500, TEST REC LOSS: [0.069199]
+
+================ Testing Acc (Mon May 25 11:28:56 2020) ================
+epoch: 510, TEST REC LOSS: [0.068519]
+
+================ Testing Acc (Mon May 25 11:35:03 2020) ================
+epoch: 520, TEST REC LOSS: [0.069701]
+
+================ Testing Acc (Mon May 25 11:40:56 2020) ================
+epoch: 530, TEST REC LOSS: [0.068163]
+
+================ Testing Acc (Mon May 25 11:46:47 2020) ================
+epoch: 540, TEST REC LOSS: [0.066983]
+
+================ Testing Acc (Mon May 25 11:52:55 2020) ================
+epoch: 550, TEST REC LOSS: [0.069273]
+
+================ Testing Acc (Mon May 25 11:58:44 2020) ================
+epoch: 560, TEST REC LOSS: [0.074067]
+
+================ Testing Acc (Mon May 25 12:04:26 2020) ================
+epoch: 570, TEST REC LOSS: [0.069144]
+
+================ Testing Acc (Mon May 25 12:10:24 2020) ================
+epoch: 580, TEST REC LOSS: [0.067528]
+
+================ Testing Acc (Mon May 25 12:16:26 2020) ================
+epoch: 590, TEST REC LOSS: [0.067203]
+
+================ Testing Acc (Mon May 25 12:22:15 2020) ================
+epoch: 600, TEST REC LOSS: [0.065624]
+
+================ Testing Acc (Mon May 25 12:28:00 2020) ================
+epoch: 610, TEST REC LOSS: [0.067736]
+
+================ Testing Acc (Mon May 25 12:34:20 2020) ================
+epoch: 620, TEST REC LOSS: [0.065097]
+
+================ Testing Acc (Mon May 25 12:40:19 2020) ================
+epoch: 630, TEST REC LOSS: [0.069295]
+
+================ Testing Acc (Mon May 25 12:45:59 2020) ================
+epoch: 640, TEST REC LOSS: [0.066059]
+
+================ Testing Acc (Mon May 25 12:52:01 2020) ================
+epoch: 650, TEST REC LOSS: [0.067132]
+
+================ Testing Acc (Mon May 25 12:57:57 2020) ================
+epoch: 660, TEST REC LOSS: [0.071432]
+
+================ Testing Acc (Mon May 25 13:03:56 2020) ================
+epoch: 670, TEST REC LOSS: [0.067599]
+
+================ Testing Acc (Mon May 25 13:09:59 2020) ================
+epoch: 680, TEST REC LOSS: [0.06447]
+
+================ Testing Acc (Mon May 25 13:15:51 2020) ================
+epoch: 690, TEST REC LOSS: [0.068037]
+
+================ Testing Acc (Mon May 25 13:21:56 2020) ================
+epoch: 700, TEST REC LOSS: [0.064626]
+
+================ Testing Acc (Mon May 25 13:27:38 2020) ================
+epoch: 710, TEST REC LOSS: [0.069521]
+
+================ Testing Acc (Mon May 25 13:33:33 2020) ================
+epoch: 720, TEST REC LOSS: [0.064556]
+
+================ Testing Acc (Mon May 25 13:39:22 2020) ================
+epoch: 730, TEST REC LOSS: [0.067625]
+
+================ Testing Acc (Mon May 25 13:45:15 2020) ================
+epoch: 740, TEST REC LOSS: [0.065721]
+
+================ Testing Acc (Mon May 25 13:50:51 2020) ================
+epoch: 750, TEST REC LOSS: [0.073192]
+
+================ Testing Acc (Mon May 25 13:56:36 2020) ================
+epoch: 760, TEST REC LOSS: [0.068794]
+
+================ Testing Acc (Mon May 25 14:02:14 2020) ================
+epoch: 770, TEST REC LOSS: [0.066636]
+
+================ Testing Acc (Mon May 25 14:08:00 2020) ================
+epoch: 780, TEST REC LOSS: [0.066247]
+
+================ Testing Acc (Mon May 25 14:14:02 2020) ================
+epoch: 790, TEST REC LOSS: [0.067469]
+
+================ Testing Acc (Mon May 25 14:20:12 2020) ================
+epoch: 800, TEST REC LOSS: [0.066468]
+
+================ Testing Acc (Mon May 25 14:26:15 2020) ================
+epoch: 810, TEST REC LOSS: [0.070621]
+
+================ Testing Acc (Mon May 25 14:32:01 2020) ================
+epoch: 820, TEST REC LOSS: [0.068101]
+
+================ Testing Acc (Mon May 25 14:37:51 2020) ================
+epoch: 830, TEST REC LOSS: [0.064957]
+
+================ Testing Acc (Mon May 25 14:44:04 2020) ================
+epoch: 840, TEST REC LOSS: [0.065615]
+
+================ Testing Acc (Mon May 25 14:50:14 2020) ================
+epoch: 850, TEST REC LOSS: [0.065951]
+
+================ Testing Acc (Mon May 25 14:55:47 2020) ================
+epoch: 860, TEST REC LOSS: [0.069196]
+
+================ Testing Acc (Mon May 25 15:01:30 2020) ================
+epoch: 870, TEST REC LOSS: [0.06682]
+
+================ Testing Acc (Mon May 25 15:07:22 2020) ================
+epoch: 880, TEST REC LOSS: [0.065085]
+
+================ Testing Acc (Mon May 25 15:13:24 2020) ================
+epoch: 890, TEST REC LOSS: [0.064456]
+
+================ Testing Acc (Mon May 25 15:19:17 2020) ================
+epoch: 900, TEST REC LOSS: [0.064881]
+
+================ Testing Acc (Mon May 25 15:25:06 2020) ================
+epoch: 910, TEST REC LOSS: [0.065802]
+
+================ Testing Acc (Mon May 25 15:31:09 2020) ================
+epoch: 920, TEST REC LOSS: [0.066006]
+
+================ Testing Acc (Mon May 25 15:37:07 2020) ================
+epoch: 930, TEST REC LOSS: [0.068075]
+
+================ Testing Acc (Mon May 25 15:43:26 2020) ================
+epoch: 940, TEST REC LOSS: [0.065889]
+
+================ Testing Acc (Mon May 25 15:49:17 2020) ================
+epoch: 950, TEST REC LOSS: [0.064529]
+
+================ Testing Acc (Mon May 25 15:55:13 2020) ================
+epoch: 960, TEST REC LOSS: [0.065665]
+
+================ Testing Acc (Mon May 25 16:01:04 2020) ================
+epoch: 970, TEST REC LOSS: [0.064225]
+
+================ Testing Acc (Mon May 25 16:07:01 2020) ================
+epoch: 980, TEST REC LOSS: [0.065846]
+
+================ Testing Acc (Mon May 25 16:12:43 2020) ================
+epoch: 990, TEST REC LOSS: [0.066997]
+
+================ Testing Acc (Mon May 25 16:18:49 2020) ================
+epoch: 1000, TEST REC LOSS: [0.064653]
+
+================ Testing Acc (Mon May 25 16:24:44 2020) ================
+epoch: 1010, TEST REC LOSS: [0.067426]
+
+================ Testing Acc (Mon May 25 16:30:40 2020) ================
+epoch: 1020, TEST REC LOSS: [0.063514]
+
+================ Testing Acc (Mon May 25 16:36:47 2020) ================
+epoch: 1030, TEST REC LOSS: [0.068154]
+
+================ Testing Acc (Mon May 25 16:42:59 2020) ================
+epoch: 1040, TEST REC LOSS: [0.065972]
+
+================ Testing Acc (Mon May 25 16:48:37 2020) ================
+epoch: 1050, TEST REC LOSS: [0.064101]
+
+================ Testing Acc (Mon May 25 16:54:21 2020) ================
+epoch: 1060, TEST REC LOSS: [0.063874]
+
+================ Testing Acc (Mon May 25 16:59:55 2020) ================
+epoch: 1070, TEST REC LOSS: [0.065097]
+
+================ Testing Acc (Mon May 25 17:06:07 2020) ================
+epoch: 1080, TEST REC LOSS: [0.066937]
+
+================ Testing Acc (Mon May 25 17:11:46 2020) ================
+epoch: 1090, TEST REC LOSS: [0.068222]
+
+================ Testing Acc (Mon May 25 17:18:02 2020) ================
+epoch: 1100, TEST REC LOSS: [0.066893]
+
+================ Testing Acc (Mon May 25 17:23:33 2020) ================
+epoch: 1110, TEST REC LOSS: [0.064907]
+
+================ Testing Acc (Mon May 25 17:29:12 2020) ================
+epoch: 1120, TEST REC LOSS: [0.066452]
+
+================ Testing Acc (Mon May 25 17:34:50 2020) ================
+epoch: 1130, TEST REC LOSS: [0.066673]
+
+================ Testing Acc (Mon May 25 17:40:40 2020) ================
+epoch: 1140, TEST REC LOSS: [0.064757]
+
+================ Testing Acc (Mon May 25 17:46:46 2020) ================
+epoch: 1150, TEST REC LOSS: [0.065449]
+
+================ Testing Acc (Mon May 25 17:52:24 2020) ================
+epoch: 1160, TEST REC LOSS: [0.064513]
+
+================ Testing Acc (Mon May 25 17:58:21 2020) ================
+epoch: 1170, TEST REC LOSS: [0.063381]
+
+================ Testing Acc (Mon May 25 18:04:01 2020) ================
+epoch: 1180, TEST REC LOSS: [0.065522]
+
+================ Testing Acc (Mon May 25 18:10:03 2020) ================
+epoch: 1190, TEST REC LOSS: [0.063798]
+
+================ Testing Acc (Mon May 25 18:15:57 2020) ================
+epoch: 1200, TEST REC LOSS: [0.062829]
+
+================ Testing Acc (Mon May 25 18:21:40 2020) ================
+epoch: 1210, TEST REC LOSS: [0.064413]
+
+================ Testing Acc (Mon May 25 18:27:28 2020) ================
+epoch: 1220, TEST REC LOSS: [0.062852]
+
+================ Testing Acc (Mon May 25 18:33:22 2020) ================
+epoch: 1230, TEST REC LOSS: [0.066472]
+
+================ Testing Acc (Mon May 25 18:39:22 2020) ================
+epoch: 1240, TEST REC LOSS: [0.063982]
+
+================ Testing Acc (Mon May 25 18:45:10 2020) ================
+epoch: 1250, TEST REC LOSS: [0.063678]
+
+================ Testing Acc (Mon May 25 18:51:08 2020) ================
+epoch: 1260, TEST REC LOSS: [0.063327]
+
+================ Testing Acc (Mon May 25 18:56:58 2020) ================
+epoch: 1270, TEST REC LOSS: [0.066286]
+
+================ Testing Acc (Mon May 25 19:02:56 2020) ================
+epoch: 1280, TEST REC LOSS: [0.06318]
+
+================ Testing Acc (Mon May 25 19:08:42 2020) ================
+epoch: 1290, TEST REC LOSS: [0.06493]
+
+================ Testing Acc (Mon May 25 19:14:38 2020) ================
+epoch: 1300, TEST REC LOSS: [0.069341]
+
+================ Testing Acc (Mon May 25 19:20:37 2020) ================
+epoch: 1310, TEST REC LOSS: [0.062755]
+
+================ Testing Acc (Mon May 25 19:26:20 2020) ================
+epoch: 1320, TEST REC LOSS: [0.062437]
+
+================ Testing Acc (Mon May 25 19:32:36 2020) ================
+epoch: 1330, TEST REC LOSS: [0.061612]
+
+================ Testing Acc (Mon May 25 19:38:28 2020) ================
+epoch: 1340, TEST REC LOSS: [0.063008]
+
+================ Testing Acc (Mon May 25 19:44:12 2020) ================
+epoch: 1350, TEST REC LOSS: [0.061597]
+
+================ Testing Acc (Mon May 25 19:50:01 2020) ================
+epoch: 1360, TEST REC LOSS: [0.062105]
+
+================ Testing Acc (Mon May 25 19:55:52 2020) ================
+epoch: 1370, TEST REC LOSS: [0.062252]
+
+================ Testing Acc (Mon May 25 20:01:50 2020) ================
+epoch: 1380, TEST REC LOSS: [0.061344]
+
+================ Testing Acc (Mon May 25 20:07:51 2020) ================
+epoch: 1390, TEST REC LOSS: [0.064141]
+
+================ Testing Acc (Mon May 25 20:13:40 2020) ================
+epoch: 1400, TEST REC LOSS: [0.062461]
+
+================ Testing Acc (Mon May 25 20:19:23 2020) ================
+epoch: 1410, TEST REC LOSS: [0.064134]
+
+================ Testing Acc (Mon May 25 20:25:03 2020) ================
+epoch: 1420, TEST REC LOSS: [0.063028]
+
+================ Testing Acc (Mon May 25 20:30:52 2020) ================
+epoch: 1430, TEST REC LOSS: [0.063621]
+
+================ Testing Acc (Mon May 25 20:36:30 2020) ================
+epoch: 1440, TEST REC LOSS: [0.06227]
+
+================ Testing Acc (Mon May 25 20:42:30 2020) ================
+epoch: 1450, TEST REC LOSS: [0.063197]
+
+================ Testing Acc (Mon May 25 20:48:21 2020) ================
+epoch: 1460, TEST REC LOSS: [0.061143]
+
+================ Testing Acc (Mon May 25 20:54:02 2020) ================
+epoch: 1470, TEST REC LOSS: [0.062538]
+
+================ Testing Acc (Mon May 25 20:59:52 2020) ================
+epoch: 1480, TEST REC LOSS: [0.061905]
+
+================ Testing Acc (Mon May 25 21:05:41 2020) ================
+epoch: 1490, TEST REC LOSS: [0.063101]
+
+================ Testing Acc (Mon May 25 21:11:40 2020) ================
+epoch: 1500, TEST REC LOSS: [0.063102]
+
+================ Testing Acc (Mon May 25 21:17:36 2020) ================
+epoch: 1510, TEST REC LOSS: [0.064691]
+
+================ Testing Acc (Mon May 25 21:23:26 2020) ================
+epoch: 1520, TEST REC LOSS: [0.062747]
+
+================ Testing Acc (Mon May 25 21:29:20 2020) ================
+epoch: 1530, TEST REC LOSS: [0.062427]
+
+================ Testing Acc (Mon May 25 21:35:20 2020) ================
+epoch: 1540, TEST REC LOSS: [0.063223]
+
+================ Testing Acc (Mon May 25 21:41:19 2020) ================
+epoch: 1550, TEST REC LOSS: [0.061668]
+
+================ Testing Acc (Mon May 25 21:47:05 2020) ================
+epoch: 1560, TEST REC LOSS: [0.061888]
+
+================ Testing Acc (Mon May 25 21:52:59 2020) ================
+epoch: 1570, TEST REC LOSS: [0.061766]
+
+================ Testing Acc (Mon May 25 21:58:57 2020) ================
+epoch: 1580, TEST REC LOSS: [0.060429]
+
+================ Testing Acc (Mon May 25 22:04:50 2020) ================
+epoch: 1590, TEST REC LOSS: [0.063209]
+
+================ Testing Acc (Mon May 25 22:10:55 2020) ================
+epoch: 1600, TEST REC LOSS: [0.061132]
+
+================ Testing Acc (Mon May 25 22:17:10 2020) ================
+epoch: 1610, TEST REC LOSS: [0.061562]
+
+================ Testing Acc (Mon May 25 22:23:22 2020) ================
+epoch: 1620, TEST REC LOSS: [0.061623]
+
+================ Testing Acc (Mon May 25 22:29:12 2020) ================
+epoch: 1630, TEST REC LOSS: [0.064158]
+
+================ Testing Acc (Mon May 25 22:34:49 2020) ================
+epoch: 1640, TEST REC LOSS: [0.06178]
+
+================ Testing Acc (Mon May 25 22:40:56 2020) ================
+epoch: 1650, TEST REC LOSS: [0.062838]
+
+================ Testing Acc (Mon May 25 22:46:48 2020) ================
+epoch: 1660, TEST REC LOSS: [0.060826]
+
+================ Testing Acc (Mon May 25 22:52:39 2020) ================
+epoch: 1670, TEST REC LOSS: [0.06298]
+
+================ Testing Acc (Mon May 25 22:58:22 2020) ================
+epoch: 1680, TEST REC LOSS: [0.064034]
+
+================ Testing Acc (Mon May 25 23:04:13 2020) ================
+epoch: 1690, TEST REC LOSS: [0.064148]
+
+================ Testing Acc (Mon May 25 23:09:56 2020) ================
+epoch: 1700, TEST REC LOSS: [0.061766]
+
+================ Testing Acc (Mon May 25 23:15:36 2020) ================
+epoch: 1710, TEST REC LOSS: [0.061433]
+
+================ Testing Acc (Mon May 25 23:21:35 2020) ================
+epoch: 1720, TEST REC LOSS: [0.062043]
+
+================ Testing Acc (Mon May 25 23:27:35 2020) ================
+epoch: 1730, TEST REC LOSS: [0.062006]
+
+================ Testing Acc (Mon May 25 23:33:40 2020) ================
+epoch: 1740, TEST REC LOSS: [0.059844]
+
+================ Testing Acc (Mon May 25 23:39:37 2020) ================
+epoch: 1750, TEST REC LOSS: [0.060621]
+
+================ Testing Acc (Mon May 25 23:45:32 2020) ================
+epoch: 1760, TEST REC LOSS: [0.061991]
+
+================ Testing Acc (Mon May 25 23:51:00 2020) ================
+epoch: 1770, TEST REC LOSS: [0.061956]
+
+================ Testing Acc (Mon May 25 23:56:47 2020) ================
+epoch: 1780, TEST REC LOSS: [0.061573]
+
+================ Testing Acc (Tue May 26 00:02:42 2020) ================
+epoch: 1790, TEST REC LOSS: [0.06083]
+
+================ Testing Acc (Tue May 26 00:08:40 2020) ================
+epoch: 1800, TEST REC LOSS: [0.060727]
+
+================ Testing Acc (Tue May 26 00:14:39 2020) ================
+epoch: 1810, TEST REC LOSS: [0.060456]
+
+================ Testing Acc (Tue May 26 00:20:31 2020) ================
+epoch: 1820, TEST REC LOSS: [0.061265]
+
+================ Testing Acc (Tue May 26 00:26:38 2020) ================
+epoch: 1830, TEST REC LOSS: [0.062307]
+
+================ Testing Acc (Tue May 26 00:32:27 2020) ================
+epoch: 1840, TEST REC LOSS: [0.061694]
+
+================ Testing Acc (Tue May 26 00:38:26 2020) ================
+epoch: 1850, TEST REC LOSS: [0.061856]
+
+================ Testing Acc (Tue May 26 00:44:27 2020) ================
+epoch: 1860, TEST REC LOSS: [0.060315]
+
+================ Testing Acc (Tue May 26 00:50:14 2020) ================
+epoch: 1870, TEST REC LOSS: [0.062449]
+
+================ Testing Acc (Tue May 26 00:56:01 2020) ================
+epoch: 1880, TEST REC LOSS: [0.061819]
+
+================ Testing Acc (Tue May 26 01:02:07 2020) ================
+epoch: 1890, TEST REC LOSS: [0.061578]
+
+================ Testing Acc (Tue May 26 01:08:19 2020) ================
+epoch: 1900, TEST REC LOSS: [0.060635]
+
+================ Testing Acc (Tue May 26 01:14:16 2020) ================
+epoch: 1910, TEST REC LOSS: [0.059522]
+
+================ Testing Acc (Tue May 26 01:20:04 2020) ================
+epoch: 1920, TEST REC LOSS: [0.060497]
+
+================ Testing Acc (Tue May 26 01:26:02 2020) ================
+epoch: 1930, TEST REC LOSS: [0.061127]
+
+================ Testing Acc (Tue May 26 01:31:51 2020) ================
+epoch: 1940, TEST REC LOSS: [0.060603]
+
+================ Testing Acc (Tue May 26 01:37:52 2020) ================
+epoch: 1950, TEST REC LOSS: [0.061124]
+
+================ Testing Acc (Tue May 26 01:43:48 2020) ================
+epoch: 1960, TEST REC LOSS: [0.061172]
+
+================ Testing Acc (Tue May 26 01:49:39 2020) ================
+epoch: 1970, TEST REC LOSS: [0.059497]
+
+================ Testing Acc (Tue May 26 01:55:31 2020) ================
+epoch: 1980, TEST REC LOSS: [0.062836]
+
+================ Testing Acc (Tue May 26 02:01:14 2020) ================
+epoch: 1990, TEST REC LOSS: [0.060005]
+
+================ Testing Acc (Tue May 26 02:07:17 2020) ================
+epoch: 2000, TEST REC LOSS: [0.060149]
+
+================ Testing Acc (Tue May 26 02:13:15 2020) ================
+epoch: 2010, TEST REC LOSS: [0.060982]
+
+================ Testing Acc (Tue May 26 02:19:11 2020) ================
+epoch: 2020, TEST REC LOSS: [0.060671]
+
+================ Testing Acc (Tue May 26 02:24:46 2020) ================
+epoch: 2030, TEST REC LOSS: [0.063119]
+
+================ Testing Acc (Tue May 26 02:30:45 2020) ================
+epoch: 2040, TEST REC LOSS: [0.059923]
+
+================ Testing Acc (Tue May 26 02:36:44 2020) ================
+epoch: 2050, TEST REC LOSS: [0.061119]
+
+================ Testing Acc (Tue May 26 02:42:38 2020) ================
+epoch: 2060, TEST REC LOSS: [0.061168]
+
+================ Testing Acc (Tue May 26 02:48:42 2020) ================
+epoch: 2070, TEST REC LOSS: [0.060801]
+
+================ Testing Acc (Tue May 26 02:54:32 2020) ================
+epoch: 2080, TEST REC LOSS: [0.060575]
+
+================ Testing Acc (Tue May 26 03:00:24 2020) ================
+epoch: 2090, TEST REC LOSS: [0.060183]
+
+================ Testing Acc (Tue May 26 03:05:54 2020) ================
+epoch: 2100, TEST REC LOSS: [0.060157]
+
+================ Testing Acc (Tue May 26 03:12:03 2020) ================
+epoch: 2110, TEST REC LOSS: [0.058986]
+
+================ Testing Acc (Tue May 26 03:17:54 2020) ================
+epoch: 2120, TEST REC LOSS: [0.060429]
+
+================ Testing Acc (Tue May 26 03:23:57 2020) ================
+epoch: 2130, TEST REC LOSS: [0.061192]
+
+================ Testing Acc (Tue May 26 03:29:54 2020) ================
+epoch: 2140, TEST REC LOSS: [0.060324]
+
+================ Testing Acc (Tue May 26 03:35:47 2020) ================
+epoch: 2150, TEST REC LOSS: [0.062084]
+
+================ Testing Acc (Tue May 26 03:41:55 2020) ================
+epoch: 2160, TEST REC LOSS: [0.061087]
+
+================ Testing Acc (Tue May 26 03:47:41 2020) ================
+epoch: 2170, TEST REC LOSS: [0.060177]
+
+================ Testing Acc (Tue May 26 03:53:45 2020) ================
+epoch: 2180, TEST REC LOSS: [0.060915]
+
+================ Testing Acc (Tue May 26 03:59:38 2020) ================
+epoch: 2190, TEST REC LOSS: [0.059378]
+
+================ Testing Acc (Tue May 26 04:05:43 2020) ================
+epoch: 2200, TEST REC LOSS: [0.058942]
+
+================ Testing Acc (Tue May 26 04:11:31 2020) ================
+epoch: 2210, TEST REC LOSS: [0.060998]
+
+================ Testing Acc (Tue May 26 04:17:14 2020) ================
+epoch: 2220, TEST REC LOSS: [0.061299]
+
+================ Testing Acc (Tue May 26 04:23:01 2020) ================
+epoch: 2230, TEST REC LOSS: [0.061565]
+
+================ Testing Acc (Tue May 26 04:28:57 2020) ================
+epoch: 2240, TEST REC LOSS: [0.060082]
+
+================ Testing Acc (Tue May 26 04:34:42 2020) ================
+epoch: 2250, TEST REC LOSS: [0.059153]
+
+================ Testing Acc (Tue May 26 04:40:22 2020) ================
+epoch: 2260, TEST REC LOSS: [0.059775]
+
+================ Testing Acc (Tue May 26 04:46:06 2020) ================
+epoch: 2270, TEST REC LOSS: [0.060216]
+
+================ Testing Acc (Tue May 26 04:52:11 2020) ================
+epoch: 2280, TEST REC LOSS: [0.059734]
+
+================ Testing Acc (Tue May 26 04:57:57 2020) ================
+epoch: 2290, TEST REC LOSS: [0.06056]
+
+================ Testing Acc (Tue May 26 05:03:51 2020) ================
+epoch: 2300, TEST REC LOSS: [0.059825]
+
+================ Testing Acc (Tue May 26 05:09:40 2020) ================
+epoch: 2310, TEST REC LOSS: [0.059972]
+
+================ Testing Acc (Tue May 26 05:15:43 2020) ================
+epoch: 2320, TEST REC LOSS: [0.059295]
+
+================ Testing Acc (Tue May 26 05:22:03 2020) ================
+epoch: 2330, TEST REC LOSS: [0.060174]
+
+================ Testing Acc (Tue May 26 05:27:54 2020) ================
+epoch: 2340, TEST REC LOSS: [0.060594]
+
+================ Testing Acc (Tue May 26 05:33:43 2020) ================
+epoch: 2350, TEST REC LOSS: [0.059824]
+
+================ Testing Acc (Tue May 26 05:39:39 2020) ================
+epoch: 2360, TEST REC LOSS: [0.059946]
+
+================ Testing Acc (Tue May 26 05:45:39 2020) ================
+epoch: 2370, TEST REC LOSS: [0.060569]
+
+================ Testing Acc (Tue May 26 05:51:18 2020) ================
+epoch: 2380, TEST REC LOSS: [0.057953]
+
+================ Testing Acc (Tue May 26 05:56:59 2020) ================
+epoch: 2390, TEST REC LOSS: [0.058488]
+
+================ Testing Acc (Tue May 26 06:02:45 2020) ================
+epoch: 2400, TEST REC LOSS: [0.0594]
+
+================ Testing Acc (Tue May 26 06:08:42 2020) ================
+epoch: 2410, TEST REC LOSS: [0.059887]
+
+================ Testing Acc (Tue May 26 06:14:46 2020) ================
+epoch: 2420, TEST REC LOSS: [0.059406]
+
+================ Testing Acc (Tue May 26 06:20:21 2020) ================
+epoch: 2430, TEST REC LOSS: [0.061757]
+
+================ Testing Acc (Tue May 26 06:26:09 2020) ================
+epoch: 2440, TEST REC LOSS: [0.061082]
+
+================ Testing Acc (Tue May 26 06:31:49 2020) ================
+epoch: 2450, TEST REC LOSS: [0.060237]
+
+================ Testing Acc (Tue May 26 06:37:55 2020) ================
+epoch: 2460, TEST REC LOSS: [0.060269]
+
+================ Testing Acc (Tue May 26 06:43:57 2020) ================
+epoch: 2470, TEST REC LOSS: [0.05856]
+
+================ Testing Acc (Tue May 26 06:49:58 2020) ================
+epoch: 2480, TEST REC LOSS: [0.059102]
+
+================ Testing Acc (Tue May 26 06:55:43 2020) ================
+epoch: 2490, TEST REC LOSS: [0.06033]
+
+================ Testing Acc (Tue May 26 07:01:32 2020) ================
+epoch: 2500, TEST REC LOSS: [0.059081]
+
+================ Testing Acc (Tue May 26 07:07:46 2020) ================
+epoch: 2510, TEST REC LOSS: [0.060637]
+
+================ Testing Acc (Tue May 26 07:13:36 2020) ================
+epoch: 2520, TEST REC LOSS: [0.058301]
+
+================ Testing Acc (Tue May 26 07:19:37 2020) ================
+epoch: 2530, TEST REC LOSS: [0.060352]
+
+================ Testing Acc (Tue May 26 07:25:23 2020) ================
+epoch: 2540, TEST REC LOSS: [0.058472]
+
+================ Testing Acc (Tue May 26 07:31:19 2020) ================
+epoch: 2550, TEST REC LOSS: [0.059754]
+
+================ Testing Acc (Tue May 26 07:37:13 2020) ================
+epoch: 2560, TEST REC LOSS: [0.060189]
+
+================ Testing Acc (Tue May 26 07:43:16 2020) ================
+epoch: 2570, TEST REC LOSS: [0.05984]
+
+================ Testing Acc (Tue May 26 07:49:02 2020) ================
+epoch: 2580, TEST REC LOSS: [0.059532]
+
+================ Testing Acc (Tue May 26 07:54:48 2020) ================
+epoch: 2590, TEST REC LOSS: [0.058022]
+
+================ Testing Acc (Tue May 26 08:00:34 2020) ================
+epoch: 2600, TEST REC LOSS: [0.060558]
+
+================ Testing Acc (Tue May 26 08:06:40 2020) ================
+epoch: 2610, TEST REC LOSS: [0.060564]
+
+================ Testing Acc (Tue May 26 08:12:30 2020) ================
+epoch: 2620, TEST REC LOSS: [0.059621]
+
+================ Testing Acc (Tue May 26 08:18:22 2020) ================
+epoch: 2630, TEST REC LOSS: [0.059096]
+
+================ Testing Acc (Tue May 26 08:24:08 2020) ================
+epoch: 2640, TEST REC LOSS: [0.059159]
+
+================ Testing Acc (Tue May 26 08:30:09 2020) ================
+epoch: 2650, TEST REC LOSS: [0.060033]
+
+================ Testing Acc (Tue May 26 08:35:56 2020) ================
+epoch: 2660, TEST REC LOSS: [0.059334]
+
+================ Testing Acc (Tue May 26 08:41:47 2020) ================
+epoch: 2670, TEST REC LOSS: [0.05916]
+
+================ Testing Acc (Tue May 26 08:47:29 2020) ================
+epoch: 2680, TEST REC LOSS: [0.059437]
+
+================ Testing Acc (Tue May 26 08:53:22 2020) ================
+epoch: 2690, TEST REC LOSS: [0.059513]
+
+================ Testing Acc (Tue May 26 08:59:19 2020) ================
+epoch: 2700, TEST REC LOSS: [0.05897]
+
+================ Testing Acc (Tue May 26 09:05:05 2020) ================
+epoch: 2710, TEST REC LOSS: [0.059332]
+
+================ Testing Acc (Tue May 26 09:10:32 2020) ================
+epoch: 2720, TEST REC LOSS: [0.058052]
+
+================ Testing Acc (Tue May 26 09:15:48 2020) ================
+epoch: 2730, TEST REC LOSS: [0.05935]
+
+================ Testing Acc (Tue May 26 09:21:12 2020) ================
+epoch: 2740, TEST REC LOSS: [0.058192]
+
+================ Testing Acc (Tue May 26 09:26:36 2020) ================
+epoch: 2750, TEST REC LOSS: [0.058017]
+
+================ Testing Acc (Tue May 26 09:32:09 2020) ================
+epoch: 2760, TEST REC LOSS: [0.059897]
+
+================ Testing Acc (Tue May 26 09:37:49 2020) ================
+epoch: 2770, TEST REC LOSS: [0.058284]
+
+================ Testing Acc (Tue May 26 09:43:05 2020) ================
+epoch: 2780, TEST REC LOSS: [0.062347]
+
+================ Testing Acc (Tue May 26 09:48:42 2020) ================
+epoch: 2790, TEST REC LOSS: [0.058153]
+
+================ Testing Acc (Tue May 26 09:53:56 2020) ================
+epoch: 2800, TEST REC LOSS: [0.059087]
+
+================ Testing Acc (Tue May 26 09:59:30 2020) ================
+epoch: 2810, TEST REC LOSS: [0.058645]
+
+================ Testing Acc (Tue May 26 10:04:49 2020) ================
+epoch: 2820, TEST REC LOSS: [0.059326]
+
+================ Testing Acc (Tue May 26 10:10:13 2020) ================
+epoch: 2830, TEST REC LOSS: [0.059076]
+
+================ Testing Acc (Tue May 26 10:15:51 2020) ================
+epoch: 2840, TEST REC LOSS: [0.059897]
+
+================ Testing Acc (Tue May 26 10:21:12 2020) ================
+epoch: 2850, TEST REC LOSS: [0.058423]
+
+================ Testing Acc (Tue May 26 10:26:54 2020) ================
+epoch: 2860, TEST REC LOSS: [0.058162]
+
+================ Testing Acc (Tue May 26 10:32:59 2020) ================
+epoch: 2870, TEST REC LOSS: [0.059915]
+
+================ Testing Acc (Tue May 26 10:38:35 2020) ================
+epoch: 2880, TEST REC LOSS: [0.05953]
+
+================ Testing Acc (Tue May 26 10:44:18 2020) ================
+epoch: 2890, TEST REC LOSS: [0.05962]
+
+================ Testing Acc (Tue May 26 10:49:59 2020) ================
+epoch: 2900, TEST REC LOSS: [0.056991]
+
+================ Testing Acc (Tue May 26 10:55:14 2020) ================
+epoch: 2910, TEST REC LOSS: [0.057679]
+
+================ Testing Acc (Tue May 26 11:00:43 2020) ================
+epoch: 2920, TEST REC LOSS: [0.057314]
+
+================ Testing Acc (Tue May 26 11:06:08 2020) ================
+epoch: 2930, TEST REC LOSS: [0.058106]
+
+================ Testing Acc (Tue May 26 11:11:43 2020) ================
+epoch: 2940, TEST REC LOSS: [0.058312]
+
+================ Testing Acc (Tue May 26 11:17:13 2020) ================
+epoch: 2950, TEST REC LOSS: [0.058691]
+
+================ Testing Acc (Tue May 26 11:23:02 2020) ================
+epoch: 2960, TEST REC LOSS: [0.058572]
+
+================ Testing Acc (Tue May 26 11:28:43 2020) ================
+epoch: 2970, TEST REC LOSS: [0.059267]
+
+================ Testing Acc (Tue May 26 11:34:17 2020) ================
+epoch: 2980, TEST REC LOSS: [0.058912]
+
+================ Testing Acc (Tue May 26 11:39:54 2020) ================
+epoch: 2990, TEST REC LOSS: [0.059374]
+
+================ Testing Acc (Tue May 26 11:45:30 2020) ================
+epoch: 3000, TEST REC LOSS: [0.058158]
+
+================ Testing Acc (Tue May 26 11:50:29 2020) ================
+epoch: 3010, TEST REC LOSS: [0.059292]
+
+================ Testing Acc (Tue May 26 11:55:50 2020) ================
+epoch: 3020, TEST REC LOSS: [0.058765]
+
+================ Testing Acc (Tue May 26 12:01:22 2020) ================
+epoch: 3030, TEST REC LOSS: [0.057773]
+
+================ Testing Acc (Tue May 26 12:06:55 2020) ================
+epoch: 3040, TEST REC LOSS: [0.058202]
+
+================ Testing Acc (Tue May 26 12:12:48 2020) ================
+epoch: 3050, TEST REC LOSS: [0.058275]
+
+================ Testing Acc (Tue May 26 12:18:35 2020) ================
+epoch: 3060, TEST REC LOSS: [0.059306]
+
+================ Testing Acc (Tue May 26 12:24:29 2020) ================
+epoch: 3070, TEST REC LOSS: [0.058935]
+
+================ Testing Acc (Tue May 26 12:30:15 2020) ================
+epoch: 3080, TEST REC LOSS: [0.058785]
+
+================ Testing Acc (Tue May 26 12:36:15 2020) ================
+epoch: 3090, TEST REC LOSS: [0.059201]
+
+================ Testing Acc (Tue May 26 12:41:54 2020) ================
+epoch: 3100, TEST REC LOSS: [0.058285]
+
+================ Testing Acc (Tue May 26 12:47:37 2020) ================
+epoch: 3110, TEST REC LOSS: [0.05998]
+
+================ Testing Acc (Tue May 26 12:53:11 2020) ================
+epoch: 3120, TEST REC LOSS: [0.059427]
+
+================ Testing Acc (Tue May 26 12:58:44 2020) ================
+epoch: 3130, TEST REC LOSS: [0.058215]
+
+================ Testing Acc (Tue May 26 13:04:37 2020) ================
+epoch: 3140, TEST REC LOSS: [0.058003]
+
+================ Testing Acc (Tue May 26 13:10:17 2020) ================
+epoch: 3150, TEST REC LOSS: [0.058139]
+
+================ Testing Acc (Tue May 26 13:16:11 2020) ================
+epoch: 3160, TEST REC LOSS: [0.058112]
+
+================ Testing Acc (Tue May 26 13:21:56 2020) ================
+epoch: 3170, TEST REC LOSS: [0.059476]
+
+================ Testing Acc (Tue May 26 13:27:28 2020) ================
+epoch: 3180, TEST REC LOSS: [0.058419]
+
+================ Testing Acc (Tue May 26 13:33:08 2020) ================
+epoch: 3190, TEST REC LOSS: [0.058146]
+
+================ Testing Acc (Tue May 26 13:39:00 2020) ================
+epoch: 3200, TEST REC LOSS: [0.059385]
+
+================ Testing Acc (Tue May 26 13:44:34 2020) ================
+epoch: 3210, TEST REC LOSS: [0.059196]
+
+================ Testing Acc (Tue May 26 13:50:29 2020) ================
+epoch: 3220, TEST REC LOSS: [0.059138]
+
+================ Testing Acc (Tue May 26 13:56:10 2020) ================
+epoch: 3230, TEST REC LOSS: [0.059505]
+
+================ Testing Acc (Tue May 26 14:01:48 2020) ================
+epoch: 3240, TEST REC LOSS: [0.058306]
+
+================ Testing Acc (Tue May 26 14:07:51 2020) ================
+epoch: 3250, TEST REC LOSS: [0.059866]
+
+================ Testing Acc (Tue May 26 14:13:38 2020) ================
+epoch: 3260, TEST REC LOSS: [0.058082]
+
+================ Testing Acc (Tue May 26 14:19:26 2020) ================
+epoch: 3270, TEST REC LOSS: [0.060385]
+
+================ Testing Acc (Tue May 26 14:24:58 2020) ================
+epoch: 3280, TEST REC LOSS: [0.058656]
+
+================ Testing Acc (Tue May 26 14:30:39 2020) ================
+epoch: 3290, TEST REC LOSS: [0.059681]
+
+================ Testing Acc (Tue May 26 14:36:15 2020) ================
+epoch: 3300, TEST REC LOSS: [0.058562]
+
+================ Testing Acc (Tue May 26 14:41:51 2020) ================
+epoch: 3310, TEST REC LOSS: [0.057938]
+
+================ Testing Acc (Tue May 26 14:47:41 2020) ================
+epoch: 3320, TEST REC LOSS: [0.058022]
+
+================ Testing Acc (Tue May 26 14:53:30 2020) ================
+epoch: 3330, TEST REC LOSS: [0.058239]
+
+================ Testing Acc (Tue May 26 14:59:15 2020) ================
+epoch: 3340, TEST REC LOSS: [0.058357]
+
+================ Testing Acc (Tue May 26 15:04:51 2020) ================
+epoch: 3350, TEST REC LOSS: [0.058427]
+
+================ Testing Acc (Tue May 26 15:10:37 2020) ================
+epoch: 3360, TEST REC LOSS: [0.05885]
+
+================ Testing Acc (Tue May 26 15:16:10 2020) ================
+epoch: 3370, TEST REC LOSS: [0.059107]
+
+================ Testing Acc (Tue May 26 15:21:41 2020) ================
+epoch: 3380, TEST REC LOSS: [0.058484]
+
+================ Testing Acc (Tue May 26 15:27:19 2020) ================
+epoch: 3390, TEST REC LOSS: [0.057516]
+
+================ Testing Acc (Tue May 26 15:33:14 2020) ================
+epoch: 3400, TEST REC LOSS: [0.058322]
+
+================ Testing Acc (Tue May 26 15:38:40 2020) ================
+epoch: 3410, TEST REC LOSS: [0.058976]
+
+================ Testing Acc (Tue May 26 15:44:28 2020) ================
+epoch: 3420, TEST REC LOSS: [0.058021]
+
+================ Testing Acc (Tue May 26 15:50:08 2020) ================
+epoch: 3430, TEST REC LOSS: [0.05939]
+
+================ Testing Acc (Tue May 26 15:55:59 2020) ================
+epoch: 3440, TEST REC LOSS: [0.058461]
+
+================ Testing Acc (Tue May 26 16:01:42 2020) ================
+epoch: 3450, TEST REC LOSS: [0.059197]
+
+================ Testing Acc (Tue May 26 16:07:32 2020) ================
+epoch: 3460, TEST REC LOSS: [0.05972]
+
+================ Testing Acc (Tue May 26 16:13:23 2020) ================
+epoch: 3470, TEST REC LOSS: [0.058234]
+
+================ Testing Acc (Tue May 26 16:18:50 2020) ================
+epoch: 3480, TEST REC LOSS: [0.058911]
+
+================ Testing Acc (Tue May 26 16:24:37 2020) ================
+epoch: 3490, TEST REC LOSS: [0.057519]
+
+================ Testing Acc (Tue May 26 16:30:01 2020) ================
+epoch: 3500, TEST REC LOSS: [0.057581]
+
+================ Testing Acc (Tue May 26 16:35:49 2020) ================
+epoch: 3510, TEST REC LOSS: [0.058202]
+
+================ Testing Acc (Tue May 26 16:41:22 2020) ================
+epoch: 3520, TEST REC LOSS: [0.058346]
+
+================ Testing Acc (Tue May 26 16:47:01 2020) ================
+epoch: 3530, TEST REC LOSS: [0.057705]
+
+================ Testing Acc (Tue May 26 16:52:45 2020) ================
+epoch: 3540, TEST REC LOSS: [0.058562]
+
+================ Testing Acc (Tue May 26 16:58:19 2020) ================
+epoch: 3550, TEST REC LOSS: [0.059251]
+
+================ Testing Acc (Tue May 26 17:04:07 2020) ================
+epoch: 3560, TEST REC LOSS: [0.059098]
+
+================ Testing Acc (Tue May 26 17:09:57 2020) ================
+epoch: 3570, TEST REC LOSS: [0.058783]
+
+================ Testing Acc (Tue May 26 17:15:56 2020) ================
+epoch: 3580, TEST REC LOSS: [0.058262]
+
+================ Testing Acc (Tue May 26 17:21:40 2020) ================
+epoch: 3590, TEST REC LOSS: [0.057933]
+
+================ Testing Acc (Tue May 26 17:26:56 2020) ================
+epoch: 3600, TEST REC LOSS: [0.059512]
+
+================ Testing Acc (Tue May 26 17:32:37 2020) ================
+epoch: 3610, TEST REC LOSS: [0.057798]
+
+================ Testing Acc (Tue May 26 17:38:19 2020) ================
+epoch: 3620, TEST REC LOSS: [0.05794]
+
+================ Testing Acc (Tue May 26 17:44:10 2020) ================
+epoch: 3630, TEST REC LOSS: [0.057691]
+
+================ Testing Acc (Tue May 26 17:49:44 2020) ================
+epoch: 3640, TEST REC LOSS: [0.058695]
+
+================ Testing Acc (Tue May 26 17:55:29 2020) ================
+epoch: 3650, TEST REC LOSS: [0.058116]
+
+================ Testing Acc (Tue May 26 18:01:20 2020) ================
+epoch: 3660, TEST REC LOSS: [0.05822]
+
+================ Testing Acc (Tue May 26 18:07:10 2020) ================
+epoch: 3670, TEST REC LOSS: [0.058642]
+
+================ Testing Acc (Tue May 26 18:12:35 2020) ================
+epoch: 3680, TEST REC LOSS: [0.0574]
+
+================ Testing Acc (Tue May 26 18:18:15 2020) ================
+epoch: 3690, TEST REC LOSS: [0.05736]
+
+================ Testing Acc (Tue May 26 18:24:09 2020) ================
+epoch: 3700, TEST REC LOSS: [0.058364]
+
+================ Testing Acc (Tue May 26 18:29:51 2020) ================
+epoch: 3710, TEST REC LOSS: [0.057966]
+
+================ Testing Acc (Tue May 26 18:35:23 2020) ================
+epoch: 3720, TEST REC LOSS: [0.057936]
+
+================ Testing Acc (Tue May 26 18:40:57 2020) ================
+epoch: 3730, TEST REC LOSS: [0.056497]
+
+================ Testing Acc (Tue May 26 18:46:38 2020) ================
+epoch: 3740, TEST REC LOSS: [0.057919]
+
+================ Testing Acc (Tue May 26 18:52:15 2020) ================
+epoch: 3750, TEST REC LOSS: [0.058295]
+
+================ Testing Acc (Tue May 26 18:58:10 2020) ================
+epoch: 3760, TEST REC LOSS: [0.059145]
+
+================ Testing Acc (Tue May 26 19:04:06 2020) ================
+epoch: 3770, TEST REC LOSS: [0.05854]
+
+================ Testing Acc (Tue May 26 19:09:54 2020) ================
+epoch: 3780, TEST REC LOSS: [0.05749]
+
+================ Testing Acc (Tue May 26 19:15:44 2020) ================
+epoch: 3790, TEST REC LOSS: [0.057796]
+
+================ Testing Acc (Tue May 26 19:21:35 2020) ================
+epoch: 3800, TEST REC LOSS: [0.057824]
+
+================ Testing Acc (Tue May 26 19:27:14 2020) ================
+epoch: 3810, TEST REC LOSS: [0.057078]
+
+================ Testing Acc (Tue May 26 19:32:51 2020) ================
+epoch: 3820, TEST REC LOSS: [0.058669]
+
+================ Testing Acc (Tue May 26 19:38:25 2020) ================
+epoch: 3830, TEST REC LOSS: [0.057453]
+
+================ Testing Acc (Tue May 26 19:44:15 2020) ================
+epoch: 3840, TEST REC LOSS: [0.05815]
+
+================ Testing Acc (Tue May 26 19:49:53 2020) ================
+epoch: 3850, TEST REC LOSS: [0.055896]
+
+================ Testing Acc (Tue May 26 19:55:38 2020) ================
+epoch: 3860, TEST REC LOSS: [0.057011]
+
+================ Testing Acc (Tue May 26 20:01:19 2020) ================
+epoch: 3870, TEST REC LOSS: [0.059198]
+
+================ Testing Acc (Tue May 26 20:07:02 2020) ================
+epoch: 3880, TEST REC LOSS: [0.057177]
+
+================ Testing Acc (Tue May 26 20:12:32 2020) ================
+epoch: 3890, TEST REC LOSS: [0.05864]
+
+================ Testing Acc (Tue May 26 20:18:15 2020) ================
+epoch: 3900, TEST REC LOSS: [0.056581]
+
+================ Testing Acc (Tue May 26 20:24:10 2020) ================
+epoch: 3910, TEST REC LOSS: [0.058408]
+
+================ Testing Acc (Tue May 26 20:29:50 2020) ================
+epoch: 3920, TEST REC LOSS: [0.058092]
+
+================ Testing Acc (Tue May 26 20:35:30 2020) ================
+epoch: 3930, TEST REC LOSS: [0.058142]
+
+================ Testing Acc (Tue May 26 20:41:13 2020) ================
+epoch: 3940, TEST REC LOSS: [0.057342]
+
+================ Testing Acc (Tue May 26 20:46:43 2020) ================
+epoch: 3950, TEST REC LOSS: [0.057658]
+
+================ Testing Acc (Tue May 26 20:52:18 2020) ================
+epoch: 3960, TEST REC LOSS: [0.058408]
+
+================ Testing Acc (Tue May 26 20:58:07 2020) ================
+epoch: 3970, TEST REC LOSS: [0.057116]
+
+================ Testing Acc (Tue May 26 21:03:56 2020) ================
+epoch: 3980, TEST REC LOSS: [0.055856]
+
+================ Testing Acc (Tue May 26 21:09:23 2020) ================
+epoch: 3990, TEST REC LOSS: [0.058494]
+
+================ Testing Acc (Tue May 26 21:15:10 2020) ================
+epoch: 4000, TEST REC LOSS: [0.057493]
+
+================ Testing Acc (Tue May 26 21:20:50 2020) ================
+epoch: 4010, TEST REC LOSS: [0.056909]
+
+================ Testing Acc (Tue May 26 21:26:38 2020) ================
+epoch: 4020, TEST REC LOSS: [0.057629]
+
+================ Testing Acc (Tue May 26 21:32:14 2020) ================
+epoch: 4030, TEST REC LOSS: [0.057977]
+
+================ Testing Acc (Tue May 26 21:37:53 2020) ================
+epoch: 4040, TEST REC LOSS: [0.058307]
+
+================ Testing Acc (Tue May 26 21:43:32 2020) ================
+epoch: 4050, TEST REC LOSS: [0.057888]
+
+================ Testing Acc (Tue May 26 21:49:32 2020) ================
+epoch: 4060, TEST REC LOSS: [0.056753]
+
+================ Testing Acc (Tue May 26 21:54:59 2020) ================
+epoch: 4070, TEST REC LOSS: [0.057709]
+
+================ Testing Acc (Tue May 26 22:00:51 2020) ================
+epoch: 4080, TEST REC LOSS: [0.056822]
+
+================ Testing Acc (Tue May 26 22:06:24 2020) ================
+epoch: 4090, TEST REC LOSS: [0.057229]
+
+================ Testing Acc (Tue May 26 22:12:01 2020) ================
+epoch: 4100, TEST REC LOSS: [0.057063]
+
+================ Testing Acc (Tue May 26 22:17:51 2020) ================
+epoch: 4110, TEST REC LOSS: [0.056509]
+
+================ Testing Acc (Tue May 26 22:23:26 2020) ================
+epoch: 4120, TEST REC LOSS: [0.059071]
+
+================ Testing Acc (Tue May 26 22:29:05 2020) ================
+epoch: 4130, TEST REC LOSS: [0.058656]
+
+================ Testing Acc (Tue May 26 22:34:48 2020) ================
+epoch: 4140, TEST REC LOSS: [0.057695]
+
+================ Testing Acc (Tue May 26 22:40:40 2020) ================
+epoch: 4150, TEST REC LOSS: [0.057143]
+
+================ Testing Acc (Tue May 26 22:46:32 2020) ================
+epoch: 4160, TEST REC LOSS: [0.057481]
+
+================ Testing Acc (Tue May 26 22:52:26 2020) ================
+epoch: 4170, TEST REC LOSS: [0.056694]
+
+================ Testing Acc (Tue May 26 22:58:08 2020) ================
+epoch: 4180, TEST REC LOSS: [0.056848]
+
+================ Testing Acc (Tue May 26 23:03:53 2020) ================
+epoch: 4190, TEST REC LOSS: [0.057852]
+
+================ Testing Acc (Tue May 26 23:09:27 2020) ================
+epoch: 4200, TEST REC LOSS: [0.058012]
+
+================ Testing Acc (Tue May 26 23:15:00 2020) ================
+epoch: 4210, TEST REC LOSS: [0.056691]
+
+================ Testing Acc (Tue May 26 23:20:45 2020) ================
+epoch: 4220, TEST REC LOSS: [0.057091]
+
+================ Testing Acc (Tue May 26 23:26:08 2020) ================
+epoch: 4230, TEST REC LOSS: [0.057455]
+
+================ Testing Acc (Tue May 26 23:31:58 2020) ================
+epoch: 4240, TEST REC LOSS: [0.056145]
+
+================ Testing Acc (Tue May 26 23:37:29 2020) ================
+epoch: 4250, TEST REC LOSS: [0.057814]
+
+================ Testing Acc (Tue May 26 23:43:04 2020) ================
+epoch: 4260, TEST REC LOSS: [0.057215]
+
+================ Testing Acc (Tue May 26 23:48:47 2020) ================
+epoch: 4270, TEST REC LOSS: [0.057155]
+
+================ Testing Acc (Tue May 26 23:54:43 2020) ================
+epoch: 4280, TEST REC LOSS: [0.058042]
+
+================ Testing Acc (Wed May 27 00:00:40 2020) ================
+epoch: 4290, TEST REC LOSS: [0.058769]
+
+================ Testing Acc (Wed May 27 00:06:20 2020) ================
+epoch: 4300, TEST REC LOSS: [0.057074]
+
+================ Testing Acc (Wed May 27 00:11:57 2020) ================
+epoch: 4310, TEST REC LOSS: [0.057654]
+
+================ Testing Acc (Wed May 27 00:17:33 2020) ================
+epoch: 4320, TEST REC LOSS: [0.058002]
+
+================ Testing Acc (Wed May 27 00:23:22 2020) ================
+epoch: 4330, TEST REC LOSS: [0.058694]
+
+================ Testing Acc (Wed May 27 00:29:00 2020) ================
+epoch: 4340, TEST REC LOSS: [0.057203]
+
+================ Testing Acc (Wed May 27 00:34:34 2020) ================
+epoch: 4350, TEST REC LOSS: [0.056904]
+
+================ Testing Acc (Wed May 27 00:40:18 2020) ================
+epoch: 4360, TEST REC LOSS: [0.05711]
+
+================ Testing Acc (Wed May 27 00:46:32 2020) ================
+epoch: 4370, TEST REC LOSS: [0.0583]
+
+================ Testing Acc (Wed May 27 00:52:19 2020) ================
+epoch: 4380, TEST REC LOSS: [0.057165]
+
+================ Testing Acc (Wed May 27 00:58:03 2020) ================
+epoch: 4390, TEST REC LOSS: [0.057235]
+
+================ Testing Acc (Wed May 27 01:03:31 2020) ================
+epoch: 4400, TEST REC LOSS: [0.057609]
+
+================ Testing Acc (Wed May 27 01:09:01 2020) ================
+epoch: 4410, TEST REC LOSS: [0.058026]
+
+================ Testing Acc (Wed May 27 01:14:30 2020) ================
+epoch: 4420, TEST REC LOSS: [0.057361]
+
+================ Testing Acc (Wed May 27 01:20:10 2020) ================
+epoch: 4430, TEST REC LOSS: [0.056855]
+
+================ Testing Acc (Wed May 27 01:25:47 2020) ================
+epoch: 4440, TEST REC LOSS: [0.057443]
+
+================ Testing Acc (Wed May 27 01:31:27 2020) ================
+epoch: 4450, TEST REC LOSS: [0.058064]
+
+================ Testing Acc (Wed May 27 01:37:15 2020) ================
+epoch: 4460, TEST REC LOSS: [0.057624]
+
+================ Testing Acc (Wed May 27 01:43:07 2020) ================
+epoch: 4470, TEST REC LOSS: [0.057801]
+
+================ Testing Acc (Wed May 27 01:49:05 2020) ================
+epoch: 4480, TEST REC LOSS: [0.057408]
+
+================ Testing Acc (Wed May 27 01:55:03 2020) ================
+epoch: 4490, TEST REC LOSS: [0.058275]
+
+================ Testing Acc (Wed May 27 02:00:54 2020) ================
+epoch: 4500, TEST REC LOSS: [0.056663]
+
+================ Testing Acc (Wed May 27 02:06:28 2020) ================
+epoch: 4510, TEST REC LOSS: [0.056506]
+
+================ Testing Acc (Wed May 27 02:12:12 2020) ================
+epoch: 4520, TEST REC LOSS: [0.056946]
+
+================ Testing Acc (Wed May 27 02:17:49 2020) ================
+epoch: 4530, TEST REC LOSS: [0.057847]
+
+================ Testing Acc (Wed May 27 02:23:22 2020) ================
+epoch: 4540, TEST REC LOSS: [0.058006]
+
+================ Testing Acc (Wed May 27 02:29:07 2020) ================
+epoch: 4550, TEST REC LOSS: [0.0565]
+
+================ Testing Acc (Wed May 27 02:34:46 2020) ================
+epoch: 4560, TEST REC LOSS: [0.057099]
+
+================ Testing Acc (Wed May 27 02:40:16 2020) ================
+epoch: 4570, TEST REC LOSS: [0.058128]
+
+================ Testing Acc (Wed May 27 02:46:15 2020) ================
+epoch: 4580, TEST REC LOSS: [0.05762]
+
+================ Testing Acc (Wed May 27 02:51:50 2020) ================
+epoch: 4590, TEST REC LOSS: [0.056792]
+
+================ Testing Acc (Wed May 27 02:57:33 2020) ================
+epoch: 4600, TEST REC LOSS: [0.057359]
+
+================ Testing Acc (Wed May 27 03:03:06 2020) ================
+epoch: 4610, TEST REC LOSS: [0.056443]
+
+================ Testing Acc (Wed May 27 03:08:51 2020) ================
+epoch: 4620, TEST REC LOSS: [0.058013]
+
+================ Testing Acc (Wed May 27 03:14:39 2020) ================
+epoch: 4630, TEST REC LOSS: [0.056223]
+
+================ Testing Acc (Wed May 27 03:20:04 2020) ================
+epoch: 4640, TEST REC LOSS: [0.056779]
+
+================ Testing Acc (Wed May 27 03:25:24 2020) ================
+epoch: 4650, TEST REC LOSS: [0.057012]
+
+================ Testing Acc (Wed May 27 03:31:04 2020) ================
+epoch: 4660, TEST REC LOSS: [0.056616]
+
+================ Testing Acc (Wed May 27 03:37:06 2020) ================
+epoch: 4670, TEST REC LOSS: [0.056109]
+
+================ Testing Acc (Wed May 27 03:42:36 2020) ================
+epoch: 4680, TEST REC LOSS: [0.056641]
+
+================ Testing Acc (Wed May 27 03:48:26 2020) ================
+epoch: 4690, TEST REC LOSS: [0.056803]
+
+================ Testing Acc (Wed May 27 03:54:01 2020) ================
+epoch: 4700, TEST REC LOSS: [0.057053]
+
+================ Testing Acc (Wed May 27 03:59:24 2020) ================
+epoch: 4710, TEST REC LOSS: [0.0574]
+
+================ Testing Acc (Wed May 27 04:05:19 2020) ================
+epoch: 4720, TEST REC LOSS: [0.05738]
+
+================ Testing Acc (Wed May 27 04:10:56 2020) ================
+epoch: 4730, TEST REC LOSS: [0.056932]
+
+================ Testing Acc (Wed May 27 04:16:32 2020) ================
+epoch: 4740, TEST REC LOSS: [0.056904]
+
+================ Testing Acc (Wed May 27 04:22:23 2020) ================
+epoch: 4750, TEST REC LOSS: [0.057751]
+
+================ Testing Acc (Wed May 27 04:27:58 2020) ================
+epoch: 4760, TEST REC LOSS: [0.05764]
+
+================ Testing Acc (Wed May 27 04:33:33 2020) ================
+epoch: 4770, TEST REC LOSS: [0.057273]
+
+================ Testing Acc (Wed May 27 04:39:19 2020) ================
+epoch: 4780, TEST REC LOSS: [0.056115]
+
+================ Testing Acc (Wed May 27 04:45:04 2020) ================
+epoch: 4790, TEST REC LOSS: [0.055]
+
+================ Testing Acc (Wed May 27 04:50:42 2020) ================
+epoch: 4800, TEST REC LOSS: [0.056206]
+
+================ Testing Acc (Wed May 27 04:56:23 2020) ================
+epoch: 4810, TEST REC LOSS: [0.055562]
+
+================ Testing Acc (Wed May 27 05:02:03 2020) ================
+epoch: 4820, TEST REC LOSS: [0.05644]
+
+================ Testing Acc (Wed May 27 05:07:45 2020) ================
+epoch: 4830, TEST REC LOSS: [0.056867]
+
+================ Testing Acc (Wed May 27 05:13:35 2020) ================
+epoch: 4840, TEST REC LOSS: [0.05729]
+
+================ Testing Acc (Wed May 27 05:19:27 2020) ================
+epoch: 4850, TEST REC LOSS: [0.05728]
+
+================ Testing Acc (Wed May 27 05:25:18 2020) ================
+epoch: 4860, TEST REC LOSS: [0.05647]
+
+================ Testing Acc (Wed May 27 05:31:29 2020) ================
+epoch: 4870, TEST REC LOSS: [0.056712]
+
+================ Testing Acc (Wed May 27 05:37:07 2020) ================
+epoch: 4880, TEST REC LOSS: [0.056646]
+
+================ Testing Acc (Wed May 27 05:43:05 2020) ================
+epoch: 4890, TEST REC LOSS: [0.056542]
+
+================ Testing Acc (Wed May 27 05:48:26 2020) ================
+epoch: 4900, TEST REC LOSS: [0.05692]
+
+================ Testing Acc (Wed May 27 05:53:49 2020) ================
+epoch: 4910, TEST REC LOSS: [0.055515]
+
+================ Testing Acc (Wed May 27 05:59:32 2020) ================
+epoch: 4920, TEST REC LOSS: [0.056269]
+
+================ Testing Acc (Wed May 27 06:05:17 2020) ================
+epoch: 4930, TEST REC LOSS: [0.056381]
+
+================ Testing Acc (Wed May 27 06:11:01 2020) ================
+epoch: 4940, TEST REC LOSS: [0.05703]
+
+================ Testing Acc (Wed May 27 06:16:41 2020) ================
+epoch: 4950, TEST REC LOSS: [0.057076]
+
+================ Testing Acc (Wed May 27 06:22:21 2020) ================
+epoch: 4960, TEST REC LOSS: [0.055831]
+
+================ Testing Acc (Wed May 27 06:27:57 2020) ================
+epoch: 4970, TEST REC LOSS: [0.05636]
+
+================ Testing Acc (Wed May 27 06:33:44 2020) ================
+epoch: 4980, TEST REC LOSS: [0.056283]
+
+================ Testing Acc (Wed May 27 06:39:19 2020) ================
+epoch: 4990, TEST REC LOSS: [0.057668]
+
+================ Testing Acc (Wed May 27 06:44:48 2020) ================
+epoch: 5000, TEST REC LOSS: [0.056725]
+
+================ Testing Acc (Wed May 27 06:50:17 2020) ================
+epoch: 5010, TEST REC LOSS: [0.055613]
+
+================ Testing Acc (Wed May 27 06:55:49 2020) ================
+epoch: 5020, TEST REC LOSS: [0.056792]
+
+================ Testing Acc (Wed May 27 07:01:14 2020) ================
+epoch: 5030, TEST REC LOSS: [0.056133]
+
+================ Testing Acc (Wed May 27 07:07:18 2020) ================
+epoch: 5040, TEST REC LOSS: [0.056439]
+
+================ Testing Acc (Wed May 27 07:12:52 2020) ================
+epoch: 5050, TEST REC LOSS: [0.056014]
+
+================ Testing Acc (Wed May 27 07:18:31 2020) ================
+epoch: 5060, TEST REC LOSS: [0.055676]
+
+================ Testing Acc (Wed May 27 07:24:06 2020) ================
+epoch: 5070, TEST REC LOSS: [0.056121]
+
+================ Testing Acc (Wed May 27 07:29:50 2020) ================
+epoch: 5080, TEST REC LOSS: [0.057294]
+
+================ Testing Acc (Wed May 27 07:35:27 2020) ================
+epoch: 5090, TEST REC LOSS: [0.055436]
+
+================ Testing Acc (Wed May 27 07:41:02 2020) ================
+epoch: 5100, TEST REC LOSS: [0.05616]
+
+================ Testing Acc (Wed May 27 07:46:28 2020) ================
+epoch: 5110, TEST REC LOSS: [0.055419]
+
+================ Testing Acc (Wed May 27 07:52:04 2020) ================
+epoch: 5120, TEST REC LOSS: [0.055919]
+
+================ Testing Acc (Wed May 27 07:57:33 2020) ================
+epoch: 5130, TEST REC LOSS: [0.056796]
+
+================ Testing Acc (Wed May 27 08:02:53 2020) ================
+epoch: 5140, TEST REC LOSS: [0.056256]
+
+================ Testing Acc (Wed May 27 08:08:42 2020) ================
+epoch: 5150, TEST REC LOSS: [0.057406]
+
+================ Testing Acc (Wed May 27 08:14:05 2020) ================
+epoch: 5160, TEST REC LOSS: [0.055871]
+
+================ Testing Acc (Wed May 27 08:19:36 2020) ================
+epoch: 5170, TEST REC LOSS: [0.057062]
+
+================ Testing Acc (Wed May 27 08:25:02 2020) ================
+epoch: 5180, TEST REC LOSS: [0.057344]
+
+================ Testing Acc (Wed May 27 08:30:49 2020) ================
+epoch: 5190, TEST REC LOSS: [0.056056]
+
+================ Testing Acc (Wed May 27 08:36:23 2020) ================
+epoch: 5200, TEST REC LOSS: [0.057334]
+
+================ Testing Acc (Wed May 27 08:42:17 2020) ================
+epoch: 5210, TEST REC LOSS: [0.057933]
+
+================ Testing Acc (Wed May 27 08:47:47 2020) ================
+epoch: 5220, TEST REC LOSS: [0.05649]
+
+================ Testing Acc (Wed May 27 08:53:21 2020) ================
+epoch: 5230, TEST REC LOSS: [0.056853]
+
+================ Testing Acc (Wed May 27 08:59:16 2020) ================
+epoch: 5240, TEST REC LOSS: [0.056711]
+
+================ Testing Acc (Wed May 27 09:04:30 2020) ================
+epoch: 5250, TEST REC LOSS: [0.056359]
+
+================ Testing Acc (Wed May 27 09:09:54 2020) ================
+epoch: 5260, TEST REC LOSS: [0.056547]
+
+================ Testing Acc (Wed May 27 09:15:21 2020) ================
+epoch: 5270, TEST REC LOSS: [0.056899]
+
+================ Testing Acc (Wed May 27 09:20:57 2020) ================
+epoch: 5280, TEST REC LOSS: [0.05577]
+
+================ Testing Acc (Wed May 27 09:26:41 2020) ================
+epoch: 5290, TEST REC LOSS: [0.056429]
+
+================ Testing Acc (Wed May 27 09:32:19 2020) ================
+epoch: 5300, TEST REC LOSS: [0.056111]
+
+================ Testing Acc (Wed May 27 09:37:56 2020) ================
+epoch: 5310, TEST REC LOSS: [0.056231]
+
+================ Testing Acc (Wed May 27 09:43:49 2020) ================
+epoch: 5320, TEST REC LOSS: [0.056901]
+
+================ Testing Acc (Wed May 27 09:49:21 2020) ================
+epoch: 5330, TEST REC LOSS: [0.055053]
+
+================ Testing Acc (Wed May 27 09:55:07 2020) ================
+epoch: 5340, TEST REC LOSS: [0.056284]
+
+================ Testing Acc (Wed May 27 10:00:21 2020) ================
+epoch: 5350, TEST REC LOSS: [0.056477]
+
+================ Testing Acc (Wed May 27 10:05:51 2020) ================
+epoch: 5360, TEST REC LOSS: [0.057349]
+
+================ Testing Acc (Wed May 27 10:11:38 2020) ================
+epoch: 5370, TEST REC LOSS: [0.056684]
+
+================ Testing Acc (Wed May 27 10:16:59 2020) ================
+epoch: 5380, TEST REC LOSS: [0.056558]
+
+================ Testing Acc (Wed May 27 10:22:09 2020) ================
+epoch: 5390, TEST REC LOSS: [0.055039]
+
+================ Testing Acc (Wed May 27 10:27:30 2020) ================
+epoch: 5400, TEST REC LOSS: [0.057169]
+
+================ Testing Acc (Wed May 27 10:32:45 2020) ================
+epoch: 5410, TEST REC LOSS: [0.056887]
+
+================ Testing Acc (Wed May 27 10:38:02 2020) ================
+epoch: 5420, TEST REC LOSS: [0.057313]
+
+================ Testing Acc (Wed May 27 10:43:40 2020) ================
+epoch: 5430, TEST REC LOSS: [0.055458]
+
+================ Testing Acc (Wed May 27 10:48:58 2020) ================
+epoch: 5440, TEST REC LOSS: [0.057385]
+
+================ Testing Acc (Wed May 27 10:54:18 2020) ================
+epoch: 5450, TEST REC LOSS: [0.055491]
+
+================ Testing Acc (Wed May 27 10:59:54 2020) ================
+epoch: 5460, TEST REC LOSS: [0.056209]
+
+================ Testing Acc (Wed May 27 11:05:19 2020) ================
+epoch: 5470, TEST REC LOSS: [0.057311]
+
+================ Testing Acc (Wed May 27 11:10:22 2020) ================
+epoch: 5480, TEST REC LOSS: [0.05549]
+
+================ Testing Acc (Wed May 27 11:15:47 2020) ================
+epoch: 5490, TEST REC LOSS: [0.055966]
+
+================ Testing Acc (Wed May 27 11:21:18 2020) ================
+epoch: 5500, TEST REC LOSS: [0.056327]
+
+================ Testing Acc (Wed May 27 11:26:42 2020) ================
+epoch: 5510, TEST REC LOSS: [0.057095]
+
+================ Testing Acc (Wed May 27 11:32:02 2020) ================
+epoch: 5520, TEST REC LOSS: [0.056166]
+
+================ Testing Acc (Wed May 27 11:37:23 2020) ================
+epoch: 5530, TEST REC LOSS: [0.057038]
+
+================ Testing Acc (Wed May 27 11:42:58 2020) ================
+epoch: 5540, TEST REC LOSS: [0.056335]
+
+================ Testing Acc (Wed May 27 11:48:35 2020) ================
+epoch: 5550, TEST REC LOSS: [0.05672]
+
+================ Testing Acc (Wed May 27 11:54:03 2020) ================
+epoch: 5560, TEST REC LOSS: [0.056335]
+
+================ Testing Acc (Wed May 27 11:59:11 2020) ================
+epoch: 5570, TEST REC LOSS: [0.055422]
+
+================ Testing Acc (Wed May 27 12:04:40 2020) ================
+epoch: 5580, TEST REC LOSS: [0.056801]
+
+================ Testing Acc (Wed May 27 12:10:20 2020) ================
+epoch: 5590, TEST REC LOSS: [0.057]
+
+================ Testing Acc (Wed May 27 12:15:48 2020) ================
+epoch: 5600, TEST REC LOSS: [0.055775]
+
+================ Testing Acc (Wed May 27 12:21:13 2020) ================
+epoch: 5610, TEST REC LOSS: [0.057788]
+
+================ Testing Acc (Wed May 27 12:26:41 2020) ================
+epoch: 5620, TEST REC LOSS: [0.057654]
+
+================ Testing Acc (Wed May 27 12:32:27 2020) ================
+epoch: 5630, TEST REC LOSS: [0.055462]
+
+================ Testing Acc (Wed May 27 12:37:51 2020) ================
+epoch: 5640, TEST REC LOSS: [0.055606]
+
+================ Testing Acc (Wed May 27 12:43:35 2020) ================
+epoch: 5650, TEST REC LOSS: [0.055347]
+
+================ Testing Acc (Wed May 27 12:49:08 2020) ================
+epoch: 5660, TEST REC LOSS: [0.05735]
+
+================ Testing Acc (Wed May 27 12:54:50 2020) ================
+epoch: 5670, TEST REC LOSS: [0.056974]
+
+================ Testing Acc (Wed May 27 13:00:40 2020) ================
+epoch: 5680, TEST REC LOSS: [0.057532]
+
+================ Testing Acc (Wed May 27 13:06:07 2020) ================
+epoch: 5690, TEST REC LOSS: [0.055982]
+
+================ Testing Acc (Wed May 27 13:12:01 2020) ================
+epoch: 5700, TEST REC LOSS: [0.057084]
+
+================ Testing Acc (Wed May 27 13:17:25 2020) ================
+epoch: 5710, TEST REC LOSS: [0.057384]
+
+================ Testing Acc (Wed May 27 13:23:07 2020) ================
+epoch: 5720, TEST REC LOSS: [0.056038]
+
+================ Testing Acc (Wed May 27 13:28:48 2020) ================
+epoch: 5730, TEST REC LOSS: [0.056429]
+
+================ Testing Acc (Wed May 27 13:34:41 2020) ================
+epoch: 5740, TEST REC LOSS: [0.056114]
+
+================ Testing Acc (Wed May 27 13:40:25 2020) ================
+epoch: 5750, TEST REC LOSS: [0.056775]
+
+================ Testing Acc (Wed May 27 13:45:44 2020) ================
+epoch: 5760, TEST REC LOSS: [0.054792]
+
+================ Testing Acc (Wed May 27 13:51:12 2020) ================
+epoch: 5770, TEST REC LOSS: [0.05603]
+
+================ Testing Acc (Wed May 27 13:56:54 2020) ================
+epoch: 5780, TEST REC LOSS: [0.05531]
+
+================ Testing Acc (Wed May 27 14:02:42 2020) ================
+epoch: 5790, TEST REC LOSS: [0.055738]
+
+================ Testing Acc (Wed May 27 14:08:33 2020) ================
+epoch: 5800, TEST REC LOSS: [0.056154]
+
+================ Testing Acc (Wed May 27 14:14:14 2020) ================
+epoch: 5810, TEST REC LOSS: [0.054797]
+
+================ Testing Acc (Wed May 27 14:19:53 2020) ================
+epoch: 5820, TEST REC LOSS: [0.055705]
+
+================ Testing Acc (Wed May 27 14:25:34 2020) ================
+epoch: 5830, TEST REC LOSS: [0.055596]
+
+================ Testing Acc (Wed May 27 14:31:00 2020) ================
+epoch: 5840, TEST REC LOSS: [0.055202]
+
+================ Testing Acc (Wed May 27 14:36:48 2020) ================
+epoch: 5850, TEST REC LOSS: [0.055635]
+
+================ Testing Acc (Wed May 27 14:42:38 2020) ================
+epoch: 5860, TEST REC LOSS: [0.056502]
+
+================ Testing Acc (Wed May 27 14:48:14 2020) ================
+epoch: 5870, TEST REC LOSS: [0.05616]
+
+================ Testing Acc (Wed May 27 14:53:53 2020) ================
+epoch: 5880, TEST REC LOSS: [0.055972]
+
+================ Testing Acc (Wed May 27 14:59:40 2020) ================
+epoch: 5890, TEST REC LOSS: [0.055907]
+
+================ Testing Acc (Wed May 27 15:05:04 2020) ================
+epoch: 5900, TEST REC LOSS: [0.055793]
+
+================ Testing Acc (Wed May 27 15:10:51 2020) ================
+epoch: 5910, TEST REC LOSS: [0.05717]
+
+================ Testing Acc (Wed May 27 15:16:38 2020) ================
+epoch: 5920, TEST REC LOSS: [0.055552]
+
+================ Testing Acc (Wed May 27 15:22:26 2020) ================
+epoch: 5930, TEST REC LOSS: [0.055535]
+
+================ Testing Acc (Wed May 27 15:27:55 2020) ================
+epoch: 5940, TEST REC LOSS: [0.056876]
+
+================ Testing Acc (Wed May 27 15:33:31 2020) ================
+epoch: 5950, TEST REC LOSS: [0.05482]
+
+================ Testing Acc (Wed May 27 15:38:53 2020) ================
+epoch: 5960, TEST REC LOSS: [0.057357]
+
+================ Testing Acc (Wed May 27 15:44:28 2020) ================
+epoch: 5970, TEST REC LOSS: [0.056437]
+
+================ Testing Acc (Wed May 27 15:50:10 2020) ================
+epoch: 5980, TEST REC LOSS: [0.056421]
+
+================ Testing Acc (Wed May 27 15:55:54 2020) ================
+epoch: 5990, TEST REC LOSS: [0.055389]
+
+================ Testing Acc (Wed May 27 16:01:22 2020) ================
+epoch: 6000, TEST REC LOSS: [0.055673]
+
+================ Testing Acc (Wed May 27 16:07:02 2020) ================
+epoch: 6010, TEST REC LOSS: [0.056751]
+
+================ Testing Acc (Wed May 27 16:12:33 2020) ================
+epoch: 6020, TEST REC LOSS: [0.055087]
+
+================ Testing Acc (Wed May 27 16:18:20 2020) ================
+epoch: 6030, TEST REC LOSS: [0.056257]
+
+================ Testing Acc (Wed May 27 16:23:42 2020) ================
+epoch: 6040, TEST REC LOSS: [0.056626]
+
+================ Testing Acc (Wed May 27 16:29:16 2020) ================
+epoch: 6050, TEST REC LOSS: [0.055731]
+
+================ Testing Acc (Wed May 27 16:34:53 2020) ================
+epoch: 6060, TEST REC LOSS: [0.056443]
+
+================ Testing Acc (Wed May 27 16:40:15 2020) ================
+epoch: 6070, TEST REC LOSS: [0.056074]
+
+================ Testing Acc (Wed May 27 16:45:47 2020) ================
+epoch: 6080, TEST REC LOSS: [0.055764]
+
+================ Testing Acc (Wed May 27 16:51:46 2020) ================
+epoch: 6090, TEST REC LOSS: [0.055498]
+
+================ Testing Acc (Wed May 27 16:57:27 2020) ================
+epoch: 6100, TEST REC LOSS: [0.055536]
+
+================ Testing Acc (Wed May 27 17:03:05 2020) ================
+epoch: 6110, TEST REC LOSS: [0.057268]
+
+================ Testing Acc (Wed May 27 17:08:42 2020) ================
+epoch: 6120, TEST REC LOSS: [0.055639]
+
+================ Testing Acc (Wed May 27 17:14:20 2020) ================
+epoch: 6130, TEST REC LOSS: [0.056047]
+
+================ Testing Acc (Wed May 27 17:20:06 2020) ================
+epoch: 6140, TEST REC LOSS: [0.056092]
+
+================ Testing Acc (Wed May 27 17:25:32 2020) ================
+epoch: 6150, TEST REC LOSS: [0.055488]
+
+================ Testing Acc (Wed May 27 17:31:05 2020) ================
+epoch: 6160, TEST REC LOSS: [0.055784]
+
+================ Testing Acc (Wed May 27 17:36:48 2020) ================
+epoch: 6170, TEST REC LOSS: [0.057025]
+
+================ Testing Acc (Wed May 27 17:43:00 2020) ================
+epoch: 6180, TEST REC LOSS: [0.05649]
+
+================ Testing Acc (Wed May 27 17:48:35 2020) ================
+epoch: 6190, TEST REC LOSS: [0.055907]
+
+================ Testing Acc (Wed May 27 17:54:11 2020) ================
+epoch: 6200, TEST REC LOSS: [0.055609]
+
+================ Testing Acc (Wed May 27 17:59:55 2020) ================
+epoch: 6210, TEST REC LOSS: [0.056462]
+
+================ Testing Acc (Wed May 27 18:05:38 2020) ================
+epoch: 6220, TEST REC LOSS: [0.055377]
+
+================ Testing Acc (Wed May 27 18:11:15 2020) ================
+epoch: 6230, TEST REC LOSS: [0.054868]
+
+================ Testing Acc (Wed May 27 18:16:51 2020) ================
+epoch: 6240, TEST REC LOSS: [0.055839]
+
+================ Testing Acc (Wed May 27 18:22:22 2020) ================
+epoch: 6250, TEST REC LOSS: [0.056688]
+
+================ Testing Acc (Wed May 27 18:28:16 2020) ================
+epoch: 6260, TEST REC LOSS: [0.056621]
+
+================ Testing Acc (Wed May 27 18:33:56 2020) ================
+epoch: 6270, TEST REC LOSS: [0.056707]
+
+================ Testing Acc (Wed May 27 18:39:41 2020) ================
+epoch: 6280, TEST REC LOSS: [0.056387]
+
+================ Testing Acc (Wed May 27 18:45:22 2020) ================
+epoch: 6290, TEST REC LOSS: [0.056779]
+
+================ Testing Acc (Wed May 27 18:51:01 2020) ================
+epoch: 6300, TEST REC LOSS: [0.056699]
+
+================ Testing Acc (Wed May 27 18:56:56 2020) ================
+epoch: 6310, TEST REC LOSS: [0.056247]
+
+================ Testing Acc (Wed May 27 19:03:02 2020) ================
+epoch: 6320, TEST REC LOSS: [0.054758]
+
+================ Testing Acc (Wed May 27 19:08:43 2020) ================
+epoch: 6330, TEST REC LOSS: [0.055232]
+
+================ Testing Acc (Wed May 27 19:14:17 2020) ================
+epoch: 6340, TEST REC LOSS: [0.055617]
+
+================ Testing Acc (Wed May 27 19:19:49 2020) ================
+epoch: 6350, TEST REC LOSS: [0.057636]
+
+================ Testing Acc (Wed May 27 19:25:36 2020) ================
+epoch: 6360, TEST REC LOSS: [0.055915]
+
+================ Testing Acc (Wed May 27 19:31:06 2020) ================
+epoch: 6370, TEST REC LOSS: [0.056809]
+
+================ Testing Acc (Wed May 27 19:36:43 2020) ================
+epoch: 6380, TEST REC LOSS: [0.056248]
+
+================ Testing Acc (Wed May 27 19:42:27 2020) ================
+epoch: 6390, TEST REC LOSS: [0.05486]
+
+================ Testing Acc (Wed May 27 19:48:10 2020) ================
+epoch: 6400, TEST REC LOSS: [0.055355]
+
+================ Testing Acc (Wed May 27 19:53:42 2020) ================
+epoch: 6410, TEST REC LOSS: [0.055934]
+
+================ Testing Acc (Wed May 27 19:59:38 2020) ================
+epoch: 6420, TEST REC LOSS: [0.055668]
+
+================ Testing Acc (Wed May 27 20:05:16 2020) ================
+epoch: 6430, TEST REC LOSS: [0.054862]
+
+================ Testing Acc (Wed May 27 20:11:00 2020) ================
+epoch: 6440, TEST REC LOSS: [0.055881]
+
+================ Testing Acc (Wed May 27 20:16:44 2020) ================
+epoch: 6450, TEST REC LOSS: [0.054776]
+
+================ Testing Acc (Wed May 27 20:22:12 2020) ================
+epoch: 6460, TEST REC LOSS: [0.0553]
+
+================ Testing Acc (Wed May 27 20:28:03 2020) ================
+epoch: 6470, TEST REC LOSS: [0.055708]
+
+================ Testing Acc (Wed May 27 20:33:44 2020) ================
+epoch: 6480, TEST REC LOSS: [0.054818]
+
+================ Testing Acc (Wed May 27 20:39:22 2020) ================
+epoch: 6490, TEST REC LOSS: [0.055566]
+
+================ Testing Acc (Wed May 27 20:44:58 2020) ================
+epoch: 6500, TEST REC LOSS: [0.055305]
+
+================ Testing Acc (Wed May 27 20:50:43 2020) ================
+epoch: 6510, TEST REC LOSS: [0.054979]
+
+================ Testing Acc (Wed May 27 20:56:14 2020) ================
+epoch: 6520, TEST REC LOSS: [0.056324]
+
+================ Testing Acc (Wed May 27 21:02:03 2020) ================
+epoch: 6530, TEST REC LOSS: [0.054851]
+
+================ Testing Acc (Wed May 27 21:07:50 2020) ================
+epoch: 6540, TEST REC LOSS: [0.055718]
+
+================ Testing Acc (Wed May 27 21:13:30 2020) ================
+epoch: 6550, TEST REC LOSS: [0.05474]
+
+================ Testing Acc (Wed May 27 21:18:51 2020) ================
+epoch: 6560, TEST REC LOSS: [0.056035]
+
+================ Testing Acc (Wed May 27 21:24:31 2020) ================
+epoch: 6570, TEST REC LOSS: [0.056868]
+
+================ Testing Acc (Wed May 27 21:29:59 2020) ================
+epoch: 6580, TEST REC LOSS: [0.05527]
+
+================ Testing Acc (Wed May 27 21:35:33 2020) ================
+epoch: 6590, TEST REC LOSS: [0.055075]
+
+================ Testing Acc (Wed May 27 21:40:58 2020) ================
+epoch: 6600, TEST REC LOSS: [0.055319]
+
+================ Testing Acc (Wed May 27 21:46:41 2020) ================
+epoch: 6610, TEST REC LOSS: [0.05448]
+
+================ Testing Acc (Wed May 27 21:52:33 2020) ================
+epoch: 6620, TEST REC LOSS: [0.056668]
+
+================ Testing Acc (Wed May 27 21:58:08 2020) ================
+epoch: 6630, TEST REC LOSS: [0.055543]
+
+================ Testing Acc (Wed May 27 22:03:32 2020) ================
+epoch: 6640, TEST REC LOSS: [0.056362]
+
+================ Testing Acc (Wed May 27 22:09:19 2020) ================
+epoch: 6650, TEST REC LOSS: [0.055574]
+
+================ Testing Acc (Wed May 27 22:14:51 2020) ================
+epoch: 6660, TEST REC LOSS: [0.054986]
+
+================ Testing Acc (Wed May 27 22:20:45 2020) ================
+epoch: 6670, TEST REC LOSS: [0.054889]
+
+================ Testing Acc (Wed May 27 22:26:22 2020) ================
+epoch: 6680, TEST REC LOSS: [0.055574]
+
+================ Testing Acc (Wed May 27 22:32:00 2020) ================
+epoch: 6690, TEST REC LOSS: [0.054565]
+
+================ Testing Acc (Wed May 27 22:37:18 2020) ================
+epoch: 6700, TEST REC LOSS: [0.056603]
+
+================ Testing Acc (Wed May 27 22:43:02 2020) ================
+epoch: 6710, TEST REC LOSS: [0.055621]
+
+================ Testing Acc (Wed May 27 22:48:30 2020) ================
+epoch: 6720, TEST REC LOSS: [0.05459]
+
+================ Testing Acc (Wed May 27 22:54:14 2020) ================
+epoch: 6730, TEST REC LOSS: [0.056598]
+
+================ Testing Acc (Wed May 27 22:59:34 2020) ================
+epoch: 6740, TEST REC LOSS: [0.056464]
+
+================ Testing Acc (Wed May 27 23:05:08 2020) ================
+epoch: 6750, TEST REC LOSS: [0.055523]
+
+================ Testing Acc (Wed May 27 23:10:37 2020) ================
+epoch: 6760, TEST REC LOSS: [0.054612]
+
+================ Testing Acc (Wed May 27 23:16:22 2020) ================
+epoch: 6770, TEST REC LOSS: [0.055287]
+
+================ Testing Acc (Wed May 27 23:22:18 2020) ================
+epoch: 6780, TEST REC LOSS: [0.056524]
+
+================ Testing Acc (Wed May 27 23:28:01 2020) ================
+epoch: 6790, TEST REC LOSS: [0.055588]
+
+================ Testing Acc (Wed May 27 23:33:42 2020) ================
+epoch: 6800, TEST REC LOSS: [0.055339]
+
+================ Testing Acc (Wed May 27 23:39:16 2020) ================
+epoch: 6810, TEST REC LOSS: [0.054878]
+
+================ Testing Acc (Wed May 27 23:44:56 2020) ================
+epoch: 6820, TEST REC LOSS: [0.056431]
+
+================ Testing Acc (Wed May 27 23:50:33 2020) ================
+epoch: 6830, TEST REC LOSS: [0.055524]
+
+================ Testing Acc (Wed May 27 23:56:20 2020) ================
+epoch: 6840, TEST REC LOSS: [0.054762]
+
+================ Testing Acc (Thu May 28 00:02:00 2020) ================
+epoch: 6850, TEST REC LOSS: [0.055335]
+
+================ Testing Acc (Thu May 28 00:07:33 2020) ================
+epoch: 6860, TEST REC LOSS: [0.054959]
+
+================ Testing Acc (Thu May 28 00:13:10 2020) ================
+epoch: 6870, TEST REC LOSS: [0.054797]
+
+================ Testing Acc (Thu May 28 00:19:00 2020) ================
+epoch: 6880, TEST REC LOSS: [0.055215]
+
+================ Testing Acc (Thu May 28 00:24:40 2020) ================
+epoch: 6890, TEST REC LOSS: [0.055287]
+
+================ Testing Acc (Thu May 28 00:30:07 2020) ================
+epoch: 6900, TEST REC LOSS: [0.054222]
+
+================ Testing Acc (Thu May 28 00:35:43 2020) ================
+epoch: 6910, TEST REC LOSS: [0.055116]
+
+================ Testing Acc (Thu May 28 00:41:26 2020) ================
+epoch: 6920, TEST REC LOSS: [0.056194]
+
+================ Testing Acc (Thu May 28 00:47:04 2020) ================
+epoch: 6930, TEST REC LOSS: [0.054827]
+
+================ Testing Acc (Thu May 28 00:52:47 2020) ================
+epoch: 6940, TEST REC LOSS: [0.055269]
+
+================ Testing Acc (Thu May 28 00:58:05 2020) ================
+epoch: 6950, TEST REC LOSS: [0.055546]
+
+================ Testing Acc (Thu May 28 01:03:41 2020) ================
+epoch: 6960, TEST REC LOSS: [0.05494]
+
+================ Testing Acc (Thu May 28 01:09:20 2020) ================
+epoch: 6970, TEST REC LOSS: [0.054536]
+
+================ Testing Acc (Thu May 28 01:14:59 2020) ================
+epoch: 6980, TEST REC LOSS: [0.055776]
+
+================ Testing Acc (Thu May 28 01:20:35 2020) ================
+epoch: 6990, TEST REC LOSS: [0.054602]
+
+================ Testing Acc (Thu May 28 01:26:28 2020) ================
+epoch: 7000, TEST REC LOSS: [0.055103]
+
+================ Testing Acc (Thu May 28 01:32:03 2020) ================
+epoch: 7010, TEST REC LOSS: [0.055824]
+
+================ Testing Acc (Thu May 28 01:37:44 2020) ================
+epoch: 7020, TEST REC LOSS: [0.05561]
+
+================ Testing Acc (Thu May 28 01:43:12 2020) ================
+epoch: 7030, TEST REC LOSS: [0.056126]
+
+================ Testing Acc (Thu May 28 01:49:04 2020) ================
+epoch: 7040, TEST REC LOSS: [0.054301]
+
+================ Testing Acc (Thu May 28 01:55:05 2020) ================
+epoch: 7050, TEST REC LOSS: [0.054878]
+
+================ Testing Acc (Thu May 28 02:00:51 2020) ================
+epoch: 7060, TEST REC LOSS: [0.056692]
+
+================ Testing Acc (Thu May 28 02:06:21 2020) ================
+epoch: 7070, TEST REC LOSS: [0.055364]
+
+================ Testing Acc (Thu May 28 02:11:50 2020) ================
+epoch: 7080, TEST REC LOSS: [0.054949]
+
+================ Testing Acc (Thu May 28 02:17:38 2020) ================
+epoch: 7090, TEST REC LOSS: [0.056701]
+
+================ Testing Acc (Thu May 28 02:23:17 2020) ================
+epoch: 7100, TEST REC LOSS: [0.055633]
+
+================ Testing Acc (Thu May 28 02:28:45 2020) ================
+epoch: 7110, TEST REC LOSS: [0.054651]
+
+================ Testing Acc (Thu May 28 02:34:16 2020) ================
+epoch: 7120, TEST REC LOSS: [0.056115]
+
+================ Testing Acc (Thu May 28 02:39:45 2020) ================
+epoch: 7130, TEST REC LOSS: [0.055675]
+
+================ Testing Acc (Thu May 28 02:45:24 2020) ================
+epoch: 7140, TEST REC LOSS: [0.055454]
+
+================ Testing Acc (Thu May 28 02:51:12 2020) ================
+epoch: 7150, TEST REC LOSS: [0.054642]
+
+================ Testing Acc (Thu May 28 02:56:52 2020) ================
+epoch: 7160, TEST REC LOSS: [0.055624]
+
+================ Testing Acc (Thu May 28 03:02:36 2020) ================
+epoch: 7170, TEST REC LOSS: [0.055512]
+
+================ Testing Acc (Thu May 28 03:08:16 2020) ================
+epoch: 7180, TEST REC LOSS: [0.055669]
+
+================ Testing Acc (Thu May 28 03:13:58 2020) ================
+epoch: 7190, TEST REC LOSS: [0.055302]
+
+================ Testing Acc (Thu May 28 03:19:46 2020) ================
+epoch: 7200, TEST REC LOSS: [0.056044]
+
+================ Testing Acc (Thu May 28 03:25:12 2020) ================
+epoch: 7210, TEST REC LOSS: [0.054892]
+
+================ Testing Acc (Thu May 28 03:30:44 2020) ================
+epoch: 7220, TEST REC LOSS: [0.055472]
+
+================ Testing Acc (Thu May 28 03:36:31 2020) ================
+epoch: 7230, TEST REC LOSS: [0.054455]
+
+================ Testing Acc (Thu May 28 03:42:01 2020) ================
+epoch: 7240, TEST REC LOSS: [0.054595]
+
+================ Testing Acc (Thu May 28 03:47:36 2020) ================
+epoch: 7250, TEST REC LOSS: [0.055253]
+
+================ Testing Acc (Thu May 28 03:53:11 2020) ================
+epoch: 7260, TEST REC LOSS: [0.055209]
+
+================ Testing Acc (Thu May 28 03:58:58 2020) ================
+epoch: 7270, TEST REC LOSS: [0.055546]
+
+================ Testing Acc (Thu May 28 04:04:38 2020) ================
+epoch: 7280, TEST REC LOSS: [0.056046]
+
+================ Testing Acc (Thu May 28 04:10:28 2020) ================
+epoch: 7290, TEST REC LOSS: [0.055389]
+
+================ Testing Acc (Thu May 28 04:16:15 2020) ================
+epoch: 7300, TEST REC LOSS: [0.053877]
+
+================ Testing Acc (Thu May 28 04:21:53 2020) ================
+epoch: 7310, TEST REC LOSS: [0.055174]
+
+================ Testing Acc (Thu May 28 04:27:44 2020) ================
+epoch: 7320, TEST REC LOSS: [0.055707]
+
+================ Testing Acc (Thu May 28 04:33:30 2020) ================
+epoch: 7330, TEST REC LOSS: [0.056175]
+
+================ Testing Acc (Thu May 28 04:39:10 2020) ================
+epoch: 7340, TEST REC LOSS: [0.055068]
+
+================ Testing Acc (Thu May 28 04:44:55 2020) ================
+epoch: 7350, TEST REC LOSS: [0.055684]
+
+================ Testing Acc (Thu May 28 04:50:50 2020) ================
+epoch: 7360, TEST REC LOSS: [0.054653]
+
+================ Testing Acc (Thu May 28 04:56:22 2020) ================
+epoch: 7370, TEST REC LOSS: [0.054094]
+
+================ Testing Acc (Thu May 28 05:02:06 2020) ================
+epoch: 7380, TEST REC LOSS: [0.055422]
+
+================ Testing Acc (Thu May 28 05:07:51 2020) ================
+epoch: 7390, TEST REC LOSS: [0.055625]
+
+================ Testing Acc (Thu May 28 05:13:21 2020) ================
+epoch: 7400, TEST REC LOSS: [0.055242]
+
+================ Testing Acc (Thu May 28 05:19:08 2020) ================
+epoch: 7410, TEST REC LOSS: [0.055103]
+
+================ Testing Acc (Thu May 28 05:24:55 2020) ================
+epoch: 7420, TEST REC LOSS: [0.054933]
+
+================ Testing Acc (Thu May 28 05:30:35 2020) ================
+epoch: 7430, TEST REC LOSS: [0.055661]
+
+================ Testing Acc (Thu May 28 05:36:38 2020) ================
+epoch: 7440, TEST REC LOSS: [0.055015]
+
+================ Testing Acc (Thu May 28 05:42:12 2020) ================
+epoch: 7450, TEST REC LOSS: [0.054505]
+
+================ Testing Acc (Thu May 28 05:47:56 2020) ================
+epoch: 7460, TEST REC LOSS: [0.055668]
+
+================ Testing Acc (Thu May 28 05:53:29 2020) ================
+epoch: 7470, TEST REC LOSS: [0.055401]
+
+================ Testing Acc (Thu May 28 05:59:11 2020) ================
+epoch: 7480, TEST REC LOSS: [0.054658]
+
+================ Testing Acc (Thu May 28 06:05:00 2020) ================
+epoch: 7490, TEST REC LOSS: [0.055827]
+
+================ Testing Acc (Thu May 28 06:10:36 2020) ================
+epoch: 7500, TEST REC LOSS: [0.054755]
+
+================ Testing Acc (Thu May 28 06:16:01 2020) ================
+epoch: 7510, TEST REC LOSS: [0.055038]
+
+================ Testing Acc (Thu May 28 06:21:55 2020) ================
+epoch: 7520, TEST REC LOSS: [0.055984]
+
+================ Testing Acc (Thu May 28 06:27:29 2020) ================
+epoch: 7530, TEST REC LOSS: [0.054923]
+
+================ Testing Acc (Thu May 28 06:33:05 2020) ================
+epoch: 7540, TEST REC LOSS: [0.054559]
+
+================ Testing Acc (Thu May 28 06:39:06 2020) ================
+epoch: 7550, TEST REC LOSS: [0.054858]
+
+================ Testing Acc (Thu May 28 06:44:50 2020) ================
+epoch: 7560, TEST REC LOSS: [0.055269]
+
+================ Testing Acc (Thu May 28 06:50:37 2020) ================
+epoch: 7570, TEST REC LOSS: [0.053676]
+
+================ Testing Acc (Thu May 28 06:56:26 2020) ================
+epoch: 7580, TEST REC LOSS: [0.054794]
+
+================ Testing Acc (Thu May 28 07:02:03 2020) ================
+epoch: 7590, TEST REC LOSS: [0.055199]
+
+================ Testing Acc (Thu May 28 07:07:47 2020) ================
+epoch: 7600, TEST REC LOSS: [0.054863]
+
+================ Testing Acc (Thu May 28 07:13:17 2020) ================
+epoch: 7610, TEST REC LOSS: [0.054966]
+
+================ Testing Acc (Thu May 28 07:18:41 2020) ================
+epoch: 7620, TEST REC LOSS: [0.055179]
+
+================ Testing Acc (Thu May 28 07:24:25 2020) ================
+epoch: 7630, TEST REC LOSS: [0.055959]
+
+================ Testing Acc (Thu May 28 07:29:52 2020) ================
+epoch: 7640, TEST REC LOSS: [0.055118]
+
+================ Testing Acc (Thu May 28 07:36:04 2020) ================
+epoch: 7650, TEST REC LOSS: [0.054612]
+
+================ Testing Acc (Thu May 28 07:41:42 2020) ================
+epoch: 7660, TEST REC LOSS: [0.055632]
+
+================ Testing Acc (Thu May 28 07:47:32 2020) ================
+epoch: 7670, TEST REC LOSS: [0.054702]
+
+================ Testing Acc (Thu May 28 07:53:25 2020) ================
+epoch: 7680, TEST REC LOSS: [0.055206]
+
+================ Testing Acc (Thu May 28 07:59:04 2020) ================
+epoch: 7690, TEST REC LOSS: [0.055125]
+
+================ Testing Acc (Thu May 28 08:04:59 2020) ================
+epoch: 7700, TEST REC LOSS: [0.056373]
+
+================ Testing Acc (Thu May 28 08:10:33 2020) ================
+epoch: 7710, TEST REC LOSS: [0.054821]
+
+================ Testing Acc (Thu May 28 08:16:07 2020) ================
+epoch: 7720, TEST REC LOSS: [0.055847]
+
+================ Testing Acc (Thu May 28 08:21:51 2020) ================
+epoch: 7730, TEST REC LOSS: [0.054725]
+
+================ Testing Acc (Thu May 28 08:27:35 2020) ================
+epoch: 7740, TEST REC LOSS: [0.056119]
+
+================ Testing Acc (Thu May 28 08:33:10 2020) ================
+epoch: 7750, TEST REC LOSS: [0.055153]
+
+================ Testing Acc (Thu May 28 08:38:56 2020) ================
+epoch: 7760, TEST REC LOSS: [0.055693]
+
+================ Testing Acc (Thu May 28 08:44:33 2020) ================
+epoch: 7770, TEST REC LOSS: [0.055597]
+
+================ Testing Acc (Thu May 28 08:50:02 2020) ================
+epoch: 7780, TEST REC LOSS: [0.054696]
+
+================ Testing Acc (Thu May 28 08:55:49 2020) ================
+epoch: 7790, TEST REC LOSS: [0.056546]
+
+================ Testing Acc (Thu May 28 09:01:48 2020) ================
+epoch: 7800, TEST REC LOSS: [0.055136]
+
+================ Testing Acc (Thu May 28 09:07:44 2020) ================
+epoch: 7810, TEST REC LOSS: [0.054606]
+
+================ Testing Acc (Thu May 28 09:13:35 2020) ================
+epoch: 7820, TEST REC LOSS: [0.055592]
+
+================ Testing Acc (Thu May 28 09:19:09 2020) ================
+epoch: 7830, TEST REC LOSS: [0.055302]
+
+================ Testing Acc (Thu May 28 09:25:11 2020) ================
+epoch: 7840, TEST REC LOSS: [0.054556]
+
+================ Testing Acc (Thu May 28 09:30:55 2020) ================
+epoch: 7850, TEST REC LOSS: [0.054531]
+
+================ Testing Acc (Thu May 28 09:36:38 2020) ================
+epoch: 7860, TEST REC LOSS: [0.055181]
+
+================ Testing Acc (Thu May 28 09:41:59 2020) ================
+epoch: 7870, TEST REC LOSS: [0.055361]
+
+================ Testing Acc (Thu May 28 09:47:54 2020) ================
+epoch: 7880, TEST REC LOSS: [0.055264]
+
+================ Testing Acc (Thu May 28 09:53:26 2020) ================
+epoch: 7890, TEST REC LOSS: [0.055579]
+
+================ Testing Acc (Thu May 28 09:59:13 2020) ================
+epoch: 7900, TEST REC LOSS: [0.054821]
+
+================ Testing Acc (Thu May 28 10:04:48 2020) ================
+epoch: 7910, TEST REC LOSS: [0.055486]
+
+================ Testing Acc (Thu May 28 10:10:18 2020) ================
+epoch: 7920, TEST REC LOSS: [0.054478]
+
+================ Testing Acc (Thu May 28 10:15:44 2020) ================
+epoch: 7930, TEST REC LOSS: [0.056037]
+
+================ Testing Acc (Thu May 28 10:21:27 2020) ================
+epoch: 7940, TEST REC LOSS: [0.054986]
+
+================ Testing Acc (Thu May 28 10:27:05 2020) ================
+epoch: 7950, TEST REC LOSS: [0.054466]
+
+================ Testing Acc (Thu May 28 10:32:47 2020) ================
+epoch: 7960, TEST REC LOSS: [0.053599]
+
+================ Testing Acc (Thu May 28 10:38:28 2020) ================
+epoch: 7970, TEST REC LOSS: [0.053954]
+
+================ Testing Acc (Thu May 28 10:44:11 2020) ================
+epoch: 7980, TEST REC LOSS: [0.05484]
+
+================ Testing Acc (Thu May 28 10:49:53 2020) ================
+epoch: 7990, TEST REC LOSS: [0.054773]
+
+================ Testing Acc (Thu May 28 10:55:34 2020) ================
+epoch: 8000, TEST REC LOSS: [0.055428]
+
+================ Testing Acc (Thu May 28 11:01:25 2020) ================
+epoch: 8010, TEST REC LOSS: [0.054843]
+
+================ Testing Acc (Thu May 28 11:07:09 2020) ================
+epoch: 8020, TEST REC LOSS: [0.054276]
+
+================ Testing Acc (Thu May 28 11:12:41 2020) ================
+epoch: 8030, TEST REC LOSS: [0.054795]
+
+================ Testing Acc (Thu May 28 11:18:10 2020) ================
+epoch: 8040, TEST REC LOSS: [0.054353]
+
+================ Testing Acc (Thu May 28 11:23:42 2020) ================
+epoch: 8050, TEST REC LOSS: [0.054423]
+
+================ Testing Acc (Thu May 28 11:29:12 2020) ================
+epoch: 8060, TEST REC LOSS: [0.054384]
+
+================ Testing Acc (Thu May 28 11:34:55 2020) ================
+epoch: 8070, TEST REC LOSS: [0.053839]
+
+================ Testing Acc (Thu May 28 11:40:27 2020) ================
+epoch: 8080, TEST REC LOSS: [0.055955]
+
+================ Testing Acc (Thu May 28 11:46:09 2020) ================
+epoch: 8090, TEST REC LOSS: [0.054933]
+
+================ Testing Acc (Thu May 28 11:51:56 2020) ================
+epoch: 8100, TEST REC LOSS: [0.055983]
+
+================ Testing Acc (Thu May 28 11:57:53 2020) ================
+epoch: 8110, TEST REC LOSS: [0.055075]
+
+================ Testing Acc (Thu May 28 12:03:39 2020) ================
+epoch: 8120, TEST REC LOSS: [0.054814]
+
+================ Testing Acc (Thu May 28 12:09:21 2020) ================
+epoch: 8130, TEST REC LOSS: [0.055646]
+
+================ Testing Acc (Thu May 28 12:15:05 2020) ================
+epoch: 8140, TEST REC LOSS: [0.055425]
+
+================ Testing Acc (Thu May 28 12:20:42 2020) ================
+epoch: 8150, TEST REC LOSS: [0.05436]
+
+================ Testing Acc (Thu May 28 12:26:34 2020) ================
+epoch: 8160, TEST REC LOSS: [0.054962]
+
+================ Testing Acc (Thu May 28 12:32:12 2020) ================
+epoch: 8170, TEST REC LOSS: [0.055012]
+
+================ Testing Acc (Thu May 28 12:38:02 2020) ================
+epoch: 8180, TEST REC LOSS: [0.05548]
+
+================ Testing Acc (Thu May 28 12:43:34 2020) ================
+epoch: 8190, TEST REC LOSS: [0.054875]
+
+================ Testing Acc (Thu May 28 12:49:12 2020) ================
+epoch: 8200, TEST REC LOSS: [0.054831]
+
+================ Testing Acc (Thu May 28 12:55:01 2020) ================
+epoch: 8210, TEST REC LOSS: [0.055736]
+
+================ Testing Acc (Thu May 28 13:00:55 2020) ================
+epoch: 8220, TEST REC LOSS: [0.055725]
+
+================ Testing Acc (Thu May 28 13:06:29 2020) ================
+epoch: 8230, TEST REC LOSS: [0.054794]
+
+================ Testing Acc (Thu May 28 13:12:13 2020) ================
+epoch: 8240, TEST REC LOSS: [0.054738]
+
+================ Testing Acc (Thu May 28 13:17:39 2020) ================
+epoch: 8250, TEST REC LOSS: [0.054507]
+
+================ Testing Acc (Thu May 28 13:23:26 2020) ================
+epoch: 8260, TEST REC LOSS: [0.055176]
+
+================ Testing Acc (Thu May 28 13:29:01 2020) ================
+epoch: 8270, TEST REC LOSS: [0.055564]
+
+================ Testing Acc (Thu May 28 13:34:29 2020) ================
+epoch: 8280, TEST REC LOSS: [0.055859]
+
+================ Testing Acc (Thu May 28 13:39:56 2020) ================
+epoch: 8290, TEST REC LOSS: [0.05424]
+
+================ Testing Acc (Thu May 28 13:45:51 2020) ================
+epoch: 8300, TEST REC LOSS: [0.055174]
+
+================ Testing Acc (Thu May 28 13:51:31 2020) ================
+epoch: 8310, TEST REC LOSS: [0.056294]
+
+================ Testing Acc (Thu May 28 13:57:17 2020) ================
+epoch: 8320, TEST REC LOSS: [0.05434]
+
+================ Testing Acc (Thu May 28 14:03:00 2020) ================
+epoch: 8330, TEST REC LOSS: [0.054387]
+
+================ Testing Acc (Thu May 28 14:08:39 2020) ================
+epoch: 8340, TEST REC LOSS: [0.054733]
+
+================ Testing Acc (Thu May 28 14:14:13 2020) ================
+epoch: 8350, TEST REC LOSS: [0.054386]
+
+================ Testing Acc (Thu May 28 14:19:42 2020) ================
+epoch: 8360, TEST REC LOSS: [0.054533]
+
+================ Testing Acc (Thu May 28 14:25:35 2020) ================
+epoch: 8370, TEST REC LOSS: [0.054357]
+
+================ Testing Acc (Thu May 28 14:31:30 2020) ================
+epoch: 8380, TEST REC LOSS: [0.05538]
+
+================ Testing Acc (Thu May 28 14:37:40 2020) ================
+epoch: 8390, TEST REC LOSS: [0.054612]
+
+================ Testing Acc (Thu May 28 14:43:18 2020) ================
+epoch: 8400, TEST REC LOSS: [0.053933]
+
+================ Testing Acc (Thu May 28 14:48:55 2020) ================
+epoch: 8410, TEST REC LOSS: [0.054553]
+
+================ Testing Acc (Thu May 28 14:54:49 2020) ================
+epoch: 8420, TEST REC LOSS: [0.054877]
+
+================ Testing Acc (Thu May 28 15:00:14 2020) ================
+epoch: 8430, TEST REC LOSS: [0.055313]
+
+================ Testing Acc (Thu May 28 15:06:05 2020) ================
+epoch: 8440, TEST REC LOSS: [0.053667]
+
+================ Testing Acc (Thu May 28 15:11:58 2020) ================
+epoch: 8450, TEST REC LOSS: [0.054307]
+
+================ Testing Acc (Thu May 28 15:17:40 2020) ================
+epoch: 8460, TEST REC LOSS: [0.055282]
+
+================ Testing Acc (Thu May 28 15:23:24 2020) ================
+epoch: 8470, TEST REC LOSS: [0.055003]
+
+================ Testing Acc (Thu May 28 15:29:15 2020) ================
+epoch: 8480, TEST REC LOSS: [0.0551]
+
+================ Testing Acc (Thu May 28 15:34:45 2020) ================
+epoch: 8490, TEST REC LOSS: [0.055283]
+
+================ Testing Acc (Thu May 28 15:40:22 2020) ================
+epoch: 8500, TEST REC LOSS: [0.053786]
+
+================ Testing Acc (Thu May 28 15:46:05 2020) ================
+epoch: 8510, TEST REC LOSS: [0.054497]
+
+================ Testing Acc (Thu May 28 15:51:48 2020) ================
+epoch: 8520, TEST REC LOSS: [0.054834]
+
+================ Testing Acc (Thu May 28 15:57:22 2020) ================
+epoch: 8530, TEST REC LOSS: [0.054721]
+
+================ Testing Acc (Thu May 28 16:03:05 2020) ================
+epoch: 8540, TEST REC LOSS: [0.054672]
+
+================ Testing Acc (Thu May 28 16:08:30 2020) ================
+epoch: 8550, TEST REC LOSS: [0.053764]
+
+================ Testing Acc (Thu May 28 16:14:24 2020) ================
+epoch: 8560, TEST REC LOSS: [0.05462]
+
+================ Testing Acc (Thu May 28 16:19:53 2020) ================
+epoch: 8570, TEST REC LOSS: [0.054757]
+
+================ Testing Acc (Thu May 28 16:25:33 2020) ================
+epoch: 8580, TEST REC LOSS: [0.05462]
+
+================ Testing Acc (Thu May 28 16:31:18 2020) ================
+epoch: 8590, TEST REC LOSS: [0.05374]
+
+================ Testing Acc (Thu May 28 16:37:11 2020) ================
+epoch: 8600, TEST REC LOSS: [0.055056]
+
+================ Testing Acc (Thu May 28 16:42:51 2020) ================
+epoch: 8610, TEST REC LOSS: [0.053732]
+
+================ Testing Acc (Thu May 28 16:48:34 2020) ================
+epoch: 8620, TEST REC LOSS: [0.054854]
+
+================ Testing Acc (Thu May 28 16:54:13 2020) ================
+epoch: 8630, TEST REC LOSS: [0.054541]
+
+================ Testing Acc (Thu May 28 17:00:08 2020) ================
+epoch: 8640, TEST REC LOSS: [0.054616]
+
+================ Testing Acc (Thu May 28 17:05:53 2020) ================
+epoch: 8650, TEST REC LOSS: [0.052604]
+
+================ Testing Acc (Thu May 28 17:11:23 2020) ================
+epoch: 8660, TEST REC LOSS: [0.055116]
+
+================ Testing Acc (Thu May 28 17:16:50 2020) ================
+epoch: 8670, TEST REC LOSS: [0.05433]
+
+================ Testing Acc (Thu May 28 17:22:37 2020) ================
+epoch: 8680, TEST REC LOSS: [0.054491]
+
+================ Testing Acc (Thu May 28 17:28:32 2020) ================
+epoch: 8690, TEST REC LOSS: [0.053824]
+
+================ Testing Acc (Thu May 28 17:34:14 2020) ================
+epoch: 8700, TEST REC LOSS: [0.055115]
+
+================ Testing Acc (Thu May 28 17:39:50 2020) ================
+epoch: 8710, TEST REC LOSS: [0.053116]
+
+================ Testing Acc (Thu May 28 17:45:09 2020) ================
+epoch: 8720, TEST REC LOSS: [0.055782]
+
+================ Testing Acc (Thu May 28 17:50:52 2020) ================
+epoch: 8730, TEST REC LOSS: [0.053733]
+
+================ Testing Acc (Thu May 28 17:56:32 2020) ================
+epoch: 8740, TEST REC LOSS: [0.055053]
+
+================ Testing Acc (Thu May 28 18:02:14 2020) ================
+epoch: 8750, TEST REC LOSS: [0.054248]
+
+================ Testing Acc (Thu May 28 18:07:57 2020) ================
+epoch: 8760, TEST REC LOSS: [0.054244]
+
+================ Testing Acc (Thu May 28 18:13:36 2020) ================
+epoch: 8770, TEST REC LOSS: [0.054559]
+
+================ Testing Acc (Thu May 28 18:19:13 2020) ================
+epoch: 8780, TEST REC LOSS: [0.054431]
+
+================ Testing Acc (Thu May 28 18:24:37 2020) ================
+epoch: 8790, TEST REC LOSS: [0.054635]
+
+================ Testing Acc (Thu May 28 18:30:12 2020) ================
+epoch: 8800, TEST REC LOSS: [0.054819]
+
+================ Testing Acc (Thu May 28 18:36:05 2020) ================
+epoch: 8810, TEST REC LOSS: [0.053767]
+
+================ Testing Acc (Thu May 28 18:41:36 2020) ================
+epoch: 8820, TEST REC LOSS: [0.054621]
+
+================ Testing Acc (Thu May 28 18:47:06 2020) ================
+epoch: 8830, TEST REC LOSS: [0.055272]
+
+================ Testing Acc (Thu May 28 18:52:35 2020) ================
+epoch: 8840, TEST REC LOSS: [0.055231]
+
+================ Testing Acc (Thu May 28 18:58:08 2020) ================
+epoch: 8850, TEST REC LOSS: [0.054202]
+
+================ Testing Acc (Thu May 28 19:03:47 2020) ================
+epoch: 8860, TEST REC LOSS: [0.054352]
+
+================ Testing Acc (Thu May 28 19:09:37 2020) ================
+epoch: 8870, TEST REC LOSS: [0.055145]
+
+================ Testing Acc (Thu May 28 19:15:06 2020) ================
+epoch: 8880, TEST REC LOSS: [0.054383]
+
+================ Testing Acc (Thu May 28 19:20:50 2020) ================
+epoch: 8890, TEST REC LOSS: [0.054431]
+
+================ Testing Acc (Thu May 28 19:26:31 2020) ================
+epoch: 8900, TEST REC LOSS: [0.054428]
+
+================ Testing Acc (Thu May 28 19:32:03 2020) ================
+epoch: 8910, TEST REC LOSS: [0.055155]
+
+================ Testing Acc (Thu May 28 19:37:47 2020) ================
+epoch: 8920, TEST REC LOSS: [0.054545]
+
+================ Testing Acc (Thu May 28 19:43:24 2020) ================
+epoch: 8930, TEST REC LOSS: [0.054873]
+
+================ Testing Acc (Thu May 28 19:49:15 2020) ================
+epoch: 8940, TEST REC LOSS: [0.055491]
+
+================ Testing Acc (Thu May 28 19:54:50 2020) ================
+epoch: 8950, TEST REC LOSS: [0.054336]
+
+================ Testing Acc (Thu May 28 20:00:32 2020) ================
+epoch: 8960, TEST REC LOSS: [0.054564]
+
+================ Testing Acc (Thu May 28 20:06:24 2020) ================
+epoch: 8970, TEST REC LOSS: [0.055364]
+
+================ Testing Acc (Thu May 28 20:12:05 2020) ================
+epoch: 8980, TEST REC LOSS: [0.054664]
+
+================ Testing Acc (Thu May 28 20:18:10 2020) ================
+epoch: 8990, TEST REC LOSS: [0.05422]
+
+================ Testing Acc (Thu May 28 20:23:37 2020) ================
+epoch: 9000, TEST REC LOSS: [0.054389]
+
+================ Testing Acc (Thu May 28 20:29:19 2020) ================
+epoch: 9010, TEST REC LOSS: [0.054393]
+
+================ Testing Acc (Thu May 28 20:35:15 2020) ================
+epoch: 9020, TEST REC LOSS: [0.05483]
+
+================ Testing Acc (Thu May 28 20:40:51 2020) ================
+epoch: 9030, TEST REC LOSS: [0.053406]
+
+================ Testing Acc (Thu May 28 20:46:52 2020) ================
+epoch: 9040, TEST REC LOSS: [0.053851]
+
+================ Testing Acc (Thu May 28 20:52:37 2020) ================
+epoch: 9050, TEST REC LOSS: [0.054486]
+
+================ Testing Acc (Thu May 28 20:58:30 2020) ================
+epoch: 9060, TEST REC LOSS: [0.054169]
+
+================ Testing Acc (Thu May 28 21:03:57 2020) ================
+epoch: 9070, TEST REC LOSS: [0.0549]
+
+================ Testing Acc (Thu May 28 21:09:21 2020) ================
+epoch: 9080, TEST REC LOSS: [0.054968]
+
+================ Testing Acc (Thu May 28 21:14:59 2020) ================
+epoch: 9090, TEST REC LOSS: [0.054054]
+
+================ Testing Acc (Thu May 28 21:20:40 2020) ================
+epoch: 9100, TEST REC LOSS: [0.055085]
+
+================ Testing Acc (Thu May 28 21:26:11 2020) ================
+epoch: 9110, TEST REC LOSS: [0.054434]
+
+================ Testing Acc (Thu May 28 21:31:44 2020) ================
+epoch: 9120, TEST REC LOSS: [0.054824]
+
+================ Testing Acc (Thu May 28 21:37:32 2020) ================
+epoch: 9130, TEST REC LOSS: [0.053608]
+
+================ Testing Acc (Thu May 28 21:43:08 2020) ================
+epoch: 9140, TEST REC LOSS: [0.054998]
+
+================ Testing Acc (Thu May 28 21:48:45 2020) ================
+epoch: 9150, TEST REC LOSS: [0.055583]
+
+================ Testing Acc (Thu May 28 21:54:28 2020) ================
+epoch: 9160, TEST REC LOSS: [0.054431]
+
+================ Testing Acc (Thu May 28 22:00:33 2020) ================
+epoch: 9170, TEST REC LOSS: [0.055399]
+
+================ Testing Acc (Thu May 28 22:06:06 2020) ================
+epoch: 9180, TEST REC LOSS: [0.054067]
+
+================ Testing Acc (Thu May 28 22:11:54 2020) ================
+epoch: 9190, TEST REC LOSS: [0.056695]
+
+================ Testing Acc (Thu May 28 22:17:32 2020) ================
+epoch: 9200, TEST REC LOSS: [0.053521]
+
+================ Testing Acc (Thu May 28 22:23:21 2020) ================
+epoch: 9210, TEST REC LOSS: [0.053423]
+
+================ Testing Acc (Thu May 28 22:29:04 2020) ================
+epoch: 9220, TEST REC LOSS: [0.055571]
+
+================ Testing Acc (Thu May 28 22:34:34 2020) ================
+epoch: 9230, TEST REC LOSS: [0.05386]
+
+================ Testing Acc (Thu May 28 22:40:08 2020) ================
+epoch: 9240, TEST REC LOSS: [0.053962]
+
+================ Testing Acc (Thu May 28 22:46:02 2020) ================
+epoch: 9250, TEST REC LOSS: [0.055525]
+
+================ Testing Acc (Thu May 28 22:51:47 2020) ================
+epoch: 9260, TEST REC LOSS: [0.053147]
+
+================ Testing Acc (Thu May 28 22:57:41 2020) ================
+epoch: 9270, TEST REC LOSS: [0.054667]
+
+================ Testing Acc (Thu May 28 23:03:19 2020) ================
+epoch: 9280, TEST REC LOSS: [0.054223]
+
+================ Testing Acc (Thu May 28 23:09:05 2020) ================
+epoch: 9290, TEST REC LOSS: [0.054738]
+
+================ Testing Acc (Thu May 28 23:14:48 2020) ================
+epoch: 9300, TEST REC LOSS: [0.054134]
+
+================ Testing Acc (Thu May 28 23:20:32 2020) ================
+epoch: 9310, TEST REC LOSS: [0.054194]
+
+================ Testing Acc (Thu May 28 23:26:13 2020) ================
+epoch: 9320, TEST REC LOSS: [0.05481]
+
+================ Testing Acc (Thu May 28 23:31:53 2020) ================
+epoch: 9330, TEST REC LOSS: [0.054694]
+
+================ Testing Acc (Thu May 28 23:37:41 2020) ================
+epoch: 9340, TEST REC LOSS: [0.055723]
+
+================ Testing Acc (Thu May 28 23:43:13 2020) ================
+epoch: 9350, TEST REC LOSS: [0.054255]
+
+================ Testing Acc (Thu May 28 23:48:51 2020) ================
+epoch: 9360, TEST REC LOSS: [0.054366]
+
+================ Testing Acc (Thu May 28 23:54:26 2020) ================
+epoch: 9370, TEST REC LOSS: [0.05454]
+
+================ Testing Acc (Fri May 29 00:00:15 2020) ================
+epoch: 9380, TEST REC LOSS: [0.054688]
+
+================ Testing Acc (Fri May 29 00:05:58 2020) ================
+epoch: 9390, TEST REC LOSS: [0.054048]
+
+================ Testing Acc (Fri May 29 00:11:34 2020) ================
+epoch: 9400, TEST REC LOSS: [0.053853]
+
+================ Testing Acc (Fri May 29 00:17:28 2020) ================
+epoch: 9410, TEST REC LOSS: [0.055159]
+
+================ Testing Acc (Fri May 29 00:23:03 2020) ================
+epoch: 9420, TEST REC LOSS: [0.053827]
+
+================ Testing Acc (Fri May 29 00:28:50 2020) ================
+epoch: 9430, TEST REC LOSS: [0.054189]
+
+================ Testing Acc (Fri May 29 00:34:29 2020) ================
+epoch: 9440, TEST REC LOSS: [0.054706]
+
+================ Testing Acc (Fri May 29 00:40:10 2020) ================
+epoch: 9450, TEST REC LOSS: [0.054566]
+
+================ Testing Acc (Fri May 29 00:45:38 2020) ================
+epoch: 9460, TEST REC LOSS: [0.054904]
+
+================ Testing Acc (Fri May 29 00:51:12 2020) ================
+epoch: 9470, TEST REC LOSS: [0.054242]
+
+================ Testing Acc (Fri May 29 00:57:02 2020) ================
+epoch: 9480, TEST REC LOSS: [0.054596]
+
+================ Testing Acc (Fri May 29 01:03:16 2020) ================
+epoch: 9490, TEST REC LOSS: [0.053782]
+
+================ Testing Acc (Fri May 29 01:08:53 2020) ================
+epoch: 9500, TEST REC LOSS: [0.054665]
+
+================ Testing Acc (Fri May 29 01:14:32 2020) ================
+epoch: 9510, TEST REC LOSS: [0.054099]
+
+================ Testing Acc (Fri May 29 01:20:29 2020) ================
+epoch: 9520, TEST REC LOSS: [0.05413]
+
+================ Testing Acc (Fri May 29 01:26:13 2020) ================
+epoch: 9530, TEST REC LOSS: [0.054973]
+
+================ Testing Acc (Fri May 29 01:31:57 2020) ================
+epoch: 9540, TEST REC LOSS: [0.053251]
+
+================ Testing Acc (Fri May 29 01:37:32 2020) ================
+epoch: 9550, TEST REC LOSS: [0.05438]
+
+================ Testing Acc (Fri May 29 01:43:00 2020) ================
+epoch: 9560, TEST REC LOSS: [0.054538]
+
+================ Testing Acc (Fri May 29 01:48:29 2020) ================
+epoch: 9570, TEST REC LOSS: [0.05432]
+
+================ Testing Acc (Fri May 29 01:54:07 2020) ================
+epoch: 9580, TEST REC LOSS: [0.055137]
+
+================ Testing Acc (Fri May 29 01:59:50 2020) ================
+epoch: 9590, TEST REC LOSS: [0.053415]
+
+================ Testing Acc (Fri May 29 02:05:25 2020) ================
+epoch: 9600, TEST REC LOSS: [0.054183]
+
+================ Testing Acc (Fri May 29 02:10:55 2020) ================
+epoch: 9610, TEST REC LOSS: [0.054388]
+
+================ Testing Acc (Fri May 29 02:16:44 2020) ================
+epoch: 9620, TEST REC LOSS: [0.053912]
+
+================ Testing Acc (Fri May 29 02:22:35 2020) ================
+epoch: 9630, TEST REC LOSS: [0.055018]
+
+================ Testing Acc (Fri May 29 02:28:33 2020) ================
+epoch: 9640, TEST REC LOSS: [0.054319]
+
+================ Testing Acc (Fri May 29 02:34:04 2020) ================
+epoch: 9650, TEST REC LOSS: [0.053544]
+
+================ Testing Acc (Fri May 29 02:39:48 2020) ================
+epoch: 9660, TEST REC LOSS: [0.054834]
+
+================ Testing Acc (Fri May 29 02:45:14 2020) ================
+epoch: 9670, TEST REC LOSS: [0.054006]
+
+================ Testing Acc (Fri May 29 02:50:53 2020) ================
+epoch: 9680, TEST REC LOSS: [0.053645]
+
+================ Testing Acc (Fri May 29 02:56:22 2020) ================
+epoch: 9690, TEST REC LOSS: [0.054297]
+
+================ Testing Acc (Fri May 29 03:02:06 2020) ================
+epoch: 9700, TEST REC LOSS: [0.054228]
+
+================ Testing Acc (Fri May 29 03:07:53 2020) ================
+epoch: 9710, TEST REC LOSS: [0.054994]
+
+================ Testing Acc (Fri May 29 03:13:22 2020) ================
+epoch: 9720, TEST REC LOSS: [0.05435]
+
+================ Testing Acc (Fri May 29 03:18:58 2020) ================
+epoch: 9730, TEST REC LOSS: [0.054726]
+
+================ Testing Acc (Fri May 29 03:24:40 2020) ================
+epoch: 9740, TEST REC LOSS: [0.054263]
+
+================ Testing Acc (Fri May 29 03:30:31 2020) ================
+epoch: 9750, TEST REC LOSS: [0.054101]
+
+================ Testing Acc (Fri May 29 03:36:19 2020) ================
+epoch: 9760, TEST REC LOSS: [0.053951]
+
+================ Testing Acc (Fri May 29 03:41:56 2020) ================
+epoch: 9770, TEST REC LOSS: [0.053569]
+
+================ Testing Acc (Fri May 29 03:47:49 2020) ================
+epoch: 9780, TEST REC LOSS: [0.053415]
+
+================ Testing Acc (Fri May 29 03:53:22 2020) ================
+epoch: 9790, TEST REC LOSS: [0.054685]
+
+================ Testing Acc (Fri May 29 03:58:55 2020) ================
+epoch: 9800, TEST REC LOSS: [0.053736]
+
+================ Testing Acc (Fri May 29 04:04:42 2020) ================
+epoch: 9810, TEST REC LOSS: [0.054249]
+
+================ Testing Acc (Fri May 29 04:10:33 2020) ================
+epoch: 9820, TEST REC LOSS: [0.054833]
+
+================ Testing Acc (Fri May 29 04:16:11 2020) ================
+epoch: 9830, TEST REC LOSS: [0.052972]
+
+================ Testing Acc (Fri May 29 04:21:49 2020) ================
+epoch: 9840, TEST REC LOSS: [0.054524]
+
+================ Testing Acc (Fri May 29 04:27:26 2020) ================
+epoch: 9850, TEST REC LOSS: [0.055464]
+
+================ Testing Acc (Fri May 29 04:33:15 2020) ================
+epoch: 9860, TEST REC LOSS: [0.053182]
+
+================ Testing Acc (Fri May 29 04:38:59 2020) ================
+epoch: 9870, TEST REC LOSS: [0.053716]
+
+================ Testing Acc (Fri May 29 04:44:53 2020) ================
+epoch: 9880, TEST REC LOSS: [0.054103]
+
+================ Testing Acc (Fri May 29 04:50:39 2020) ================
+epoch: 9890, TEST REC LOSS: [0.054106]
+
+================ Testing Acc (Fri May 29 04:56:22 2020) ================
+epoch: 9900, TEST REC LOSS: [0.053839]
+
+================ Testing Acc (Fri May 29 05:01:54 2020) ================
+epoch: 9910, TEST REC LOSS: [0.054286]
+
+================ Testing Acc (Fri May 29 05:07:40 2020) ================
+epoch: 9920, TEST REC LOSS: [0.054791]
+
+================ Testing Acc (Fri May 29 05:13:17 2020) ================
+epoch: 9930, TEST REC LOSS: [0.054335]
+
+================ Testing Acc (Fri May 29 05:18:57 2020) ================
+epoch: 9940, TEST REC LOSS: [0.054062]
+
+================ Testing Acc (Fri May 29 05:24:40 2020) ================
+epoch: 9950, TEST REC LOSS: [0.053728]
+
+================ Testing Acc (Fri May 29 05:30:08 2020) ================
+epoch: 9960, TEST REC LOSS: [0.05513]
+
+================ Testing Acc (Fri May 29 05:35:54 2020) ================
+epoch: 9970, TEST REC LOSS: [0.054254]
+
+================ Testing Acc (Fri May 29 05:41:38 2020) ================
+epoch: 9980, TEST REC LOSS: [0.05395]
+
+================ Testing Acc (Fri May 29 05:47:20 2020) ================
+epoch: 9990, TEST REC LOSS: [0.055182]
+
+================ Testing Acc (Fri May 29 05:53:08 2020) ================
+epoch: 10000, TEST REC LOSS: [0.053665]
+
+================ Testing Acc (Fri May 29 05:58:55 2020) ================
+epoch: 10010, TEST REC LOSS: [0.053272]
+
+================ Testing Acc (Fri May 29 06:04:49 2020) ================
+epoch: 10020, TEST REC LOSS: [0.054618]
+
+================ Testing Acc (Fri May 29 06:10:28 2020) ================
+epoch: 10030, TEST REC LOSS: [0.054555]
+
+================ Testing Acc (Fri May 29 06:16:19 2020) ================
+epoch: 10040, TEST REC LOSS: [0.055125]
+
+================ Testing Acc (Fri May 29 06:22:01 2020) ================
+epoch: 10050, TEST REC LOSS: [0.053576]
+
+================ Testing Acc (Fri May 29 06:27:39 2020) ================
+epoch: 10060, TEST REC LOSS: [0.053729]
+
+================ Testing Acc (Fri May 29 06:33:11 2020) ================
+epoch: 10070, TEST REC LOSS: [0.054046]
+
+================ Testing Acc (Fri May 29 06:39:14 2020) ================
+epoch: 10080, TEST REC LOSS: [0.052573]
+
+================ Testing Acc (Fri May 29 06:44:55 2020) ================
+epoch: 10090, TEST REC LOSS: [0.053841]
+
+================ Testing Acc (Fri May 29 06:50:44 2020) ================
+epoch: 10100, TEST REC LOSS: [0.053646]
+
+================ Testing Acc (Fri May 29 06:56:16 2020) ================
+epoch: 10110, TEST REC LOSS: [0.054563]
+
+================ Testing Acc (Fri May 29 07:01:45 2020) ================
+epoch: 10120, TEST REC LOSS: [0.055323]
+
+================ Testing Acc (Fri May 29 07:07:27 2020) ================
+epoch: 10130, TEST REC LOSS: [0.054468]
+
+================ Testing Acc (Fri May 29 07:13:05 2020) ================
+epoch: 10140, TEST REC LOSS: [0.054056]
+
+================ Testing Acc (Fri May 29 07:18:44 2020) ================
+epoch: 10150, TEST REC LOSS: [0.055016]
+
+================ Testing Acc (Fri May 29 07:24:37 2020) ================
+epoch: 10160, TEST REC LOSS: [0.055039]
+
+================ Testing Acc (Fri May 29 07:30:04 2020) ================
+epoch: 10170, TEST REC LOSS: [0.054319]
+
+================ Testing Acc (Fri May 29 07:35:47 2020) ================
+epoch: 10180, TEST REC LOSS: [0.054281]
+
+================ Testing Acc (Fri May 29 07:41:33 2020) ================
+epoch: 10190, TEST REC LOSS: [0.053802]
+
+================ Testing Acc (Fri May 29 07:47:20 2020) ================
+epoch: 10200, TEST REC LOSS: [0.054584]
+
+================ Testing Acc (Fri May 29 07:53:30 2020) ================
+epoch: 10210, TEST REC LOSS: [0.053585]
+
+================ Testing Acc (Fri May 29 07:59:02 2020) ================
+epoch: 10220, TEST REC LOSS: [0.053563]
+
+================ Testing Acc (Fri May 29 08:04:43 2020) ================
+epoch: 10230, TEST REC LOSS: [0.054375]
+
+================ Testing Acc (Fri May 29 08:10:26 2020) ================
+epoch: 10240, TEST REC LOSS: [0.053284]
+
+================ Testing Acc (Fri May 29 08:15:59 2020) ================
+epoch: 10250, TEST REC LOSS: [0.054091]
+
+================ Testing Acc (Fri May 29 08:21:34 2020) ================
+epoch: 10260, TEST REC LOSS: [0.054803]
+
+================ Testing Acc (Fri May 29 08:27:17 2020) ================
+epoch: 10270, TEST REC LOSS: [0.053346]
+
+================ Testing Acc (Fri May 29 08:33:02 2020) ================
+epoch: 10280, TEST REC LOSS: [0.054899]
+
+================ Testing Acc (Fri May 29 08:38:53 2020) ================
+epoch: 10290, TEST REC LOSS: [0.054476]
+
+================ Testing Acc (Fri May 29 08:44:38 2020) ================
+epoch: 10300, TEST REC LOSS: [0.053975]
+
+================ Testing Acc (Fri May 29 08:50:18 2020) ================
+epoch: 10310, TEST REC LOSS: [0.054422]
+
+================ Testing Acc (Fri May 29 08:55:48 2020) ================
+epoch: 10320, TEST REC LOSS: [0.053374]
+
+================ Testing Acc (Fri May 29 09:01:18 2020) ================
+epoch: 10330, TEST REC LOSS: [0.054027]
+
+================ Testing Acc (Fri May 29 09:06:42 2020) ================
+epoch: 10340, TEST REC LOSS: [0.053823]
+
+================ Testing Acc (Fri May 29 09:12:38 2020) ================
+epoch: 10350, TEST REC LOSS: [0.053767]
+
+================ Testing Acc (Fri May 29 09:18:24 2020) ================
+epoch: 10360, TEST REC LOSS: [0.054634]
+
+================ Testing Acc (Fri May 29 09:24:10 2020) ================
+epoch: 10370, TEST REC LOSS: [0.054448]
+
+================ Testing Acc (Fri May 29 09:29:56 2020) ================
+epoch: 10380, TEST REC LOSS: [0.054436]
+
+================ Testing Acc (Fri May 29 09:35:46 2020) ================
+epoch: 10390, TEST REC LOSS: [0.054324]
+
+================ Testing Acc (Fri May 29 09:41:44 2020) ================
+epoch: 10400, TEST REC LOSS: [0.054124]
+
+================ Testing Acc (Fri May 29 09:47:34 2020) ================
+epoch: 10410, TEST REC LOSS: [0.053821]
+
+================ Testing Acc (Fri May 29 09:53:08 2020) ================
+epoch: 10420, TEST REC LOSS: [0.052965]
+
+================ Testing Acc (Fri May 29 09:59:00 2020) ================
+epoch: 10430, TEST REC LOSS: [0.053695]
+
+================ Testing Acc (Fri May 29 10:04:37 2020) ================
+epoch: 10440, TEST REC LOSS: [0.053705]
+
+================ Testing Acc (Fri May 29 10:10:24 2020) ================
+epoch: 10450, TEST REC LOSS: [0.054809]
+
+================ Testing Acc (Fri May 29 10:15:57 2020) ================
+epoch: 10460, TEST REC LOSS: [0.053704]
+
+================ Testing Acc (Fri May 29 10:21:30 2020) ================
+epoch: 10470, TEST REC LOSS: [0.054263]
+
+================ Testing Acc (Fri May 29 10:27:12 2020) ================
+epoch: 10480, TEST REC LOSS: [0.054202]
+
+================ Testing Acc (Fri May 29 10:32:59 2020) ================
+epoch: 10490, TEST REC LOSS: [0.053841]
+
+================ Testing Acc (Fri May 29 10:38:55 2020) ================
+epoch: 10500, TEST REC LOSS: [0.053538]
+
+================ Testing Acc (Fri May 29 10:44:39 2020) ================
+epoch: 10510, TEST REC LOSS: [0.054325]
+
+================ Testing Acc (Fri May 29 10:50:24 2020) ================
+epoch: 10520, TEST REC LOSS: [0.053707]
+
+================ Testing Acc (Fri May 29 10:55:52 2020) ================
+epoch: 10530, TEST REC LOSS: [0.053077]
+
+================ Testing Acc (Fri May 29 11:01:20 2020) ================
+epoch: 10540, TEST REC LOSS: [0.054335]
+
+================ Testing Acc (Fri May 29 11:07:14 2020) ================
+epoch: 10550, TEST REC LOSS: [0.053742]
+
+================ Testing Acc (Fri May 29 11:12:52 2020) ================
+epoch: 10560, TEST REC LOSS: [0.053788]
+
+================ Testing Acc (Fri May 29 11:18:28 2020) ================
+epoch: 10570, TEST REC LOSS: [0.052942]
+
+================ Testing Acc (Fri May 29 11:23:56 2020) ================
+epoch: 10580, TEST REC LOSS: [0.054576]
+
+================ Testing Acc (Fri May 29 11:29:45 2020) ================
+epoch: 10590, TEST REC LOSS: [0.053805]
+
+================ Testing Acc (Fri May 29 11:35:41 2020) ================
+epoch: 10600, TEST REC LOSS: [0.054492]
+
+================ Testing Acc (Fri May 29 11:41:12 2020) ================
+epoch: 10610, TEST REC LOSS: [0.054635]
+
+================ Testing Acc (Fri May 29 11:46:49 2020) ================
+epoch: 10620, TEST REC LOSS: [0.054276]
+
+================ Testing Acc (Fri May 29 11:52:21 2020) ================
+epoch: 10630, TEST REC LOSS: [0.05393]
+
+================ Testing Acc (Fri May 29 11:57:52 2020) ================
+epoch: 10640, TEST REC LOSS: [0.054911]
+
+================ Testing Acc (Fri May 29 12:03:17 2020) ================
+epoch: 10650, TEST REC LOSS: [0.054413]
+
+================ Testing Acc (Fri May 29 12:08:59 2020) ================
+epoch: 10660, TEST REC LOSS: [0.053805]
+
+================ Testing Acc (Fri May 29 12:14:39 2020) ================
+epoch: 10670, TEST REC LOSS: [0.053447]
+
+================ Testing Acc (Fri May 29 12:20:13 2020) ================
+epoch: 10680, TEST REC LOSS: [0.05376]
+
+================ Testing Acc (Fri May 29 12:25:45 2020) ================
+epoch: 10690, TEST REC LOSS: [0.054185]
+
+================ Testing Acc (Fri May 29 12:31:39 2020) ================
+epoch: 10700, TEST REC LOSS: [0.053867]
+
+================ Testing Acc (Fri May 29 12:37:28 2020) ================
+epoch: 10710, TEST REC LOSS: [0.054466]
+
+================ Testing Acc (Fri May 29 12:43:25 2020) ================
+epoch: 10720, TEST REC LOSS: [0.053885]
+
+================ Testing Acc (Fri May 29 12:48:58 2020) ================
+epoch: 10730, TEST REC LOSS: [0.053563]
+
+================ Testing Acc (Fri May 29 12:54:40 2020) ================
+epoch: 10740, TEST REC LOSS: [0.054824]
+
+================ Testing Acc (Fri May 29 13:00:08 2020) ================
+epoch: 10750, TEST REC LOSS: [0.05287]
+
+================ Testing Acc (Fri May 29 13:05:50 2020) ================
+epoch: 10760, TEST REC LOSS: [0.053644]
+
+================ Testing Acc (Fri May 29 13:11:38 2020) ================
+epoch: 10770, TEST REC LOSS: [0.054346]
+
+================ Testing Acc (Fri May 29 13:17:16 2020) ================
+epoch: 10780, TEST REC LOSS: [0.053379]
+
+================ Testing Acc (Fri May 29 13:22:56 2020) ================
+epoch: 10790, TEST REC LOSS: [0.052499]
+
+================ Testing Acc (Fri May 29 13:28:47 2020) ================
+epoch: 10800, TEST REC LOSS: [0.054323]
+
+================ Testing Acc (Fri May 29 13:34:16 2020) ================
+epoch: 10810, TEST REC LOSS: [0.05334]
+
+================ Testing Acc (Fri May 29 13:39:37 2020) ================
+epoch: 10820, TEST REC LOSS: [0.052585]
+
+================ Testing Acc (Fri May 29 13:45:12 2020) ================
+epoch: 10830, TEST REC LOSS: [0.054745]
+
+================ Testing Acc (Fri May 29 13:50:52 2020) ================
+epoch: 10840, TEST REC LOSS: [0.053514]
+
+================ Testing Acc (Fri May 29 13:56:32 2020) ================
+epoch: 10850, TEST REC LOSS: [0.054448]
+
+================ Testing Acc (Fri May 29 14:02:20 2020) ================
+epoch: 10860, TEST REC LOSS: [0.05456]
+
+================ Testing Acc (Fri May 29 14:07:49 2020) ================
+epoch: 10870, TEST REC LOSS: [0.054103]
+
+================ Testing Acc (Fri May 29 14:13:33 2020) ================
+epoch: 10880, TEST REC LOSS: [0.053818]
+
+================ Testing Acc (Fri May 29 14:19:14 2020) ================
+epoch: 10890, TEST REC LOSS: [0.053802]
+
+================ Testing Acc (Fri May 29 14:24:52 2020) ================
+epoch: 10900, TEST REC LOSS: [0.053514]
+
+================ Testing Acc (Fri May 29 14:30:51 2020) ================
+epoch: 10910, TEST REC LOSS: [0.053712]
+
+================ Testing Acc (Fri May 29 14:36:31 2020) ================
+epoch: 10920, TEST REC LOSS: [0.053866]
+
+================ Testing Acc (Fri May 29 14:41:59 2020) ================
+epoch: 10930, TEST REC LOSS: [0.054356]
+
+================ Testing Acc (Fri May 29 14:47:37 2020) ================
+epoch: 10940, TEST REC LOSS: [0.053238]
+
+================ Testing Acc (Fri May 29 14:53:19 2020) ================
+epoch: 10950, TEST REC LOSS: [0.054122]
+
+================ Testing Acc (Fri May 29 14:59:14 2020) ================
+epoch: 10960, TEST REC LOSS: [0.053885]
+
+================ Testing Acc (Fri May 29 15:05:04 2020) ================
+epoch: 10970, TEST REC LOSS: [0.054131]
+
+================ Testing Acc (Fri May 29 15:10:26 2020) ================
+epoch: 10980, TEST REC LOSS: [0.054062]
+
+================ Testing Acc (Fri May 29 15:16:05 2020) ================
+epoch: 10990, TEST REC LOSS: [0.053331]
+
+================ Testing Acc (Fri May 29 15:22:01 2020) ================
+epoch: 11000, TEST REC LOSS: [0.053025]
+

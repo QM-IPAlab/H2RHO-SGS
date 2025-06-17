@@ -1,0 +1,12 @@
+*.pyc
+.vscode
+output
+build
+diff_rasterization/diff_rast.egg-info
+diff_rasterization/dist
+.idea
+scripts
+colmap_latest.sif
+fern.zip 
+dataset/tensorboard/events.out.tfevents.1725691011.acn01.karolina.it4i.cz.2597080.0
+dataset/checkpoint/checkpoint_250000/checkpoint 

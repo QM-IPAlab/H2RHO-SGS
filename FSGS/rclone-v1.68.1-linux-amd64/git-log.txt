@@ -1,0 +1,181 @@
+commit 8d78768aaad75e8ff634981458990a66820093fd
+Author: Nick Craig-Wood <nick@craig-wood.com>
+Date:   Tue Sep 24 15:47:01 2024 +0100
+
+    Version v1.68.1
+
+commit 6aa924f28d1cb9958723f5d0b77c183c3f1b4c45
+Author: Nick Craig-Wood <nick@craig-wood.com>
+Date:   Wed Sep 18 09:56:16 2024 +0100
+
+    docs: document that fusermount3 may be needed when mounting/unmounting
+    
+    See: https://forum.rclone.org/t/documentation-fusermount-vs-fusermount3/47816/
+
+commit 48f2c2db7051c67b5d597160d98e768872e98517
+Author: wiserain <mail275@gmail.com>
+Date:   Wed Sep 18 01:09:21 2024 +0900
+
+    pikpak: fix login issue where token retrieval fails
+    
+    This addresses the login issue caused by pikpak's recent cancellation
+    of existing login methods and requirement for additional verifications.
+    
+    To resolve this, we've made the following changes:
+    
+    1. Similar to lib/oauthutil, we've integrated a mechanism to handle
+    captcha tokens.
+    
+    2. A new pikpakClient has been introduced to wrap the existing
+    rest.Client and incorporate the necessary headers including
+    x-captcha-token for each request.
+    
+    3. Several options have been added/removed to support persistent
+    user/client identification.
+    
+    * client_id: No longer configurable.
+    * client_secret: Deprecated as it's no longer used.
+    * user_agent: A new option that defaults to PC/Firefox's user agent
+    but can be overridden using the --pikpak-user-agent flag.
+    * device_id: A new option that is randomly generated if invalid.
+    It is recommended not to delete or change it frequently.
+    * captcha_token: A new option that is automatically managed
+    by rclone, similar to the OAuth token.
+    
+    Fixes #7950 #8005
+
+commit a88066aff38048284f2bbc77ef9e4db4aaff98af
+Author: Nick Craig-Wood <nick@craig-wood.com>
+Date:   Fri Sep 13 12:45:31 2024 +0100
+
+    s3: fix rclone ignoring static credentials when env_auth=true
+    
+    The SDKv2 conversion introduced a regression to do with setting
+    credentials with env_auth=true. The rclone documentation explicitly
+    states that env_auth only applies if secret_access_key and
+    access_key_id are blank and users had been relying on that.
+    
+    However after the SDKv2 conversion we were ignoring static credentials
+    if env_auth=true.
+    
+    This fixes the problem by ignoring env_auth=true if secret_access_key
+    and access_key_id are both provided. This brings rclone back into line
+    with the documentation and users expectations.
+    
+    Fixes #8067
+
+commit 75f5b06ff72e55aa995cd6e33509e3d29e25c5de
+Author: Nick Craig-Wood <nick@craig-wood.com>
+Date:   Wed Sep 11 15:42:47 2024 +0100
+
+    fs: fix setting stringArray config values from environment variables
+    
+    After the config re-organisation, the setting of stringArray config
+    values (eg `--exclude` set with `RCLONE_EXCLUDE`) was broken and gave
+    a message like this for `RCLONE_EXCLUDE=*.jpg`:
+    
+        Failed to load "filter" default values: failed to initialise "filter" options:
+        couldn't parse config item "exclude" = "*.jpg" as []string: parsing "*.jpg" as []string failed:
+        invalid character '/' looking for beginning of value
+    
+    This was caused by the parser trying to parse the input string as a
+    JSON value.
+    
+    When the config was re-organised it was thought that the internal
+    representation of stringArray values was not important as it was never
+    visible externally, however this turned out not to be true.
+    
+    A defined representation was chosen - a comma separated string and
+    this was documented and tests were introduced in this patch.
+    
+    This potentially introduces a very small backwards incompatibility. In
+    rclone v1.67.0
+    
+        RCLONE_EXCLUDE=a,b
+    
+    Would be interpreted as
+    
+        --exclude "a,b"
+    
+    Whereas this new code will interpret it as
+    
+        --exclude "a" --exclude "b"
+    
+    The benefit of being able to set multiple values with an environment
+    variable was deemed to outweigh the very small backwards compatibility
+    risk.
+    
+    If a value with a `,` is needed, then use CSV escaping, eg
+    
+        RCLONE_EXCLUDE="a,b"
+    
+    (Note this needs to have the quotes in so at the unix shell that would be
+    
+        RCLONE_EXCLUDE='"a,b"'
+    
+    Fixes #8063
+
+commit daeeb7c1454a43ef6e4e771abe78f780a953c451
+Author: Nick Craig-Wood <nick@craig-wood.com>
+Date:   Wed Sep 11 16:32:58 2024 +0100
+
+    rc: fix default value of --metrics-addr
+    
+    Before this fix it was empty string, which isn't a good default for a
+    stringArray.
+
+commit d6a5fc6ffaae60f63fe5b69fa03b415f1ac6ca4a
+Author: Nick Craig-Wood <nick@craig-wood.com>
+Date:   Wed Sep 11 15:20:46 2024 +0100
+
+    fs: fix --dump filters not always appearing
+    
+    Before this fix, we initialised the options blocks in a random order.
+    This meant that there was a 50/50 chance whether --dump filters would
+    show the filters or not as it was depending on the "main" block having
+    being read first to set the Dump flags.
+    
+    This initialises the options blocks in a defined order which is
+    alphabetically but with main first which fixes the problem.
+
+commit c0bfedf99cbc7e2bcbdf6735ae8e0abfec56c468
+Author: Nick Craig-Wood <nick@craig-wood.com>
+Date:   Fri Sep 13 15:51:11 2024 +0100
+
+    docs: correct notes on docker manual build
+
+commit 76b76c30bfc185aa30455cff41a0fc2a62283910
+Author: ttionya <ttionya@users.noreply.github.com>
+Date:   Fri Sep 13 00:57:53 2024 +0800
+
+    build: fix docker release build - fixes #8062
+    
+    This updates the action to use `docker/build-push-action` instead of `ilteoood/docker_buildx`
+    which fixes the build problem in testing.
+
+commit 737fcc804f3d1f1764bb84d7bfc13ee588bf440f
+Author: Pawel Palucha <pawel.palucha@aetion.com>
+Date:   Wed Sep 11 09:23:49 2024 +0200
+
+    docs: add section for improving performance for s3
+
+commit 70f396535435a9ea7df57ac00c7850f99841afc6
+Author: Nick Craig-Wood <nick@craig-wood.com>
+Date:   Tue Sep 10 11:46:04 2024 +0100
+
+    onedrive: fix spurious "Couldn't decode error response: EOF" DEBUG
+    
+    This DEBUG was being generated on redirects which don't have a JSON
+    body and is irrelevant.
+
+commit d5c100edaf73602abd46526027b15a3e3c82862e
+Author: Divyam <47589864+divyam234@users.noreply.github.com>
+Date:   Mon Sep 9 14:37:25 2024 +0530
+
+    serve docker: add missing vfs-read-chunk-streams option in docker volume driver
+
+commit dc7458cea02dd59b07303b83584780b9d4965d15
+Author: Nick Craig-Wood <nick@craig-wood.com>
+Date:   Mon Sep 23 17:29:48 2024 +0100
+
+    Start v1.68.1-DEV development
